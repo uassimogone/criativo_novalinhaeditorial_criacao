@@ -7,13 +7,13 @@ on:
       - main
     paths:
       - 'data/pautas_aprovadas.json'
-      - 'main.py'
-      - 'requirements.txt'
-      - 'src/**'
-      - '.github/workflows/criacao-semanal.yml'
   schedule:
     # Domingo, 06:30 em Brasília = 09:30 UTC
     - cron: '30 09 * * 0'
+
+concurrency:
+  group: criacao-editorial
+  cancel-in-progress: false
 
 jobs:
   criar:
@@ -50,4 +50,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add output data/historico_criativos.json
           git commit -m "Auto: gera criativos editoriais" || exit 0
+          git pull --rebase origin main
           git push origin main
