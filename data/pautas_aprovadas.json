@@ -5,7 +5,40 @@
     "tema": "O impacto real da IA nas horas de trabalho e na liderança",
     "formato_final": "CARROSSEL",
     "fonte": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tWDZMNUFSZ1FOMXNsdjhxZ1Rjc2pQSHl4TGZ1Yk5sSjVXQXJDMTNDb3lnVldvcmVzcFpJdWpYVHotek8xOGV6TURnWXJtWlJUc0NERlFIUURiY05qZW11U2ln0gFnQVVfeXFMTmk5MGNqNlcwdENPV2JhVFVWZVpabmdkQXlTWGQwMFVuOVJjSTUtanJTY0FGOHF3bmlBT2hUd1YwdTQydEVpZFZOXzk4RW5aMUdpNXhqV1BRS21JRWdYR3hYY0VycmlMaw?oc=5",
-    "status": "APPROVED"
+    "status": "APPROVED",
+    "visual_revision": 2,
+    "visual_family": "EDITORIAL_DARK",
+    "visual_queries": {
+      "1": "office worker laptop stress workload",
+      "4": "office worker burnout laptop papers"
+    },
+    "slides_aprovados": [
+      {
+        "titulo": "A IA prometeu produtividade. Muita gente ganhou foi mais trabalho.",
+        "corpo": "",
+        "visual_query": "office worker laptop stress workload"
+      },
+      {
+        "titulo": "O ganho de tempo virou mais demanda.",
+        "corpo": "Em muita empresa, a IA não reduziu a carga. Só aumentou a expectativa de entrega.",
+        "visual_query": ""
+      },
+      {
+        "titulo": "Isso não é produtividade.",
+        "corpo": "É a mesma estrutura de antes, só com mais velocidade, mais cobrança e mais pressão.",
+        "visual_query": ""
+      },
+      {
+        "titulo": "A tecnologia melhora o processo. Ela não corrige uma cultura ruim.",
+        "corpo": "",
+        "visual_query": "office worker burnout laptop papers"
+      },
+      {
+        "titulo": "A pergunta certa não é: o que a IA faz? É: o que você faz com o tempo que ela devolve?",
+        "corpo": "",
+        "visual_query": ""
+      }
+    ]
   },
   {
     "id": "2026-09-21-pauta-02",
@@ -13,7 +46,13 @@
     "tema": "O passivo trabalhista oculto nas médias empresas",
     "formato_final": "CARROSSEL",
     "fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZW15SWlnbmZ3MTFTNlpZQVdKWHBGQS1Qb2E0WlFpUlJlV1Z4b1NxWWlybFVvTnJleHdEc0N1RTh2OWtnVk83NlF3SHZkV0luaGY5X1BEMzA2R2JvYlQ2U3FVZTAySG1DMnJYNDFHZUR6ZmN5M3hySzk0LVVMQzR5VVRyM2tIRlpObWNPdVF2QQ?oc=5",
-    "status": "APPROVED"
+    "status": "APPROVED",
+    "visual_revision": 2,
+    "visual_family": "EDITORIAL_LIGHT",
+    "visual_queries": {
+      "1": "human resources business meeting office",
+      "4": "court documents business office"
+    }
   },
   {
     "id": "2026-09-21-pauta-03",
@@ -21,7 +60,13 @@
     "tema": "A relação entre produtividade real e o debate de redução de jornada",
     "formato_final": "CARROSSEL",
     "fonte": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPalZ1QkRqV2FNR1FDN0dYVXg2MFZKVmpzcEhEd1Q4cDBqV1ZoeTd1WVFlc3QzRDBYaGdQd2wwc0U3YThkbl91ZUtZVGpka2FiTFVxNVk0Qjh1cXJuM0lQYk9RWVhYbXU0NnVKWV9tZEN2eGNNcnZqMkhxanlLdXQ0YnBvY2ZrdTRiTzN4ZXlhUlhocFRLekZYMHBIYVlsWGxIelE?oc=5",
-    "status": "APPROVED"
+    "status": "APPROVED",
+    "visual_revision": 2,
+    "visual_family": "COMPARISON",
+    "visual_queries": {
+      "1": "factory workers production line",
+      "4": "industrial productivity workers"
+    }
   },
   {
     "id": "2026-09-21-pauta-04",
@@ -29,7 +74,13 @@
     "tema": "Investimento em ativos reais e diversificação patrimonial",
     "formato_final": "CARROSSEL",
     "fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZGVUOFBwRVlFRlhwdFo2b3k5N0p3a3pmWGxSOUxLd2x3UFY2N1JLQXMxV05JZzB0bjN5SGlRckRDSUxhbVZMLS1FdVJVME93SWtIeWZKVDVDUnloblNiX1BMdHB0LWk4cGIxT0NOWm05eVZUeDN1MElKUldsTWpjV04xS2tvNS1ZZFR0ZkV4NlBkWk1Nd2l1Tl9DcEVQcFZWTmlPZkVIR1JxQWRveWg1Q3JsQ1FuSVdyTVY2dmtR?oc=5",
-    "status": "APPROVED"
+    "status": "APPROVED",
+    "visual_revision": 2,
+    "visual_family": "PHOTO_PROTAGONIST",
+    "visual_queries": {
+      "1": "soybean farm Brazil aerial",
+      "4": "modern apartment buildings Santa Catarina Brazil"
+    }
   },
   {
     "id": "2026-09-21-pauta-05",
