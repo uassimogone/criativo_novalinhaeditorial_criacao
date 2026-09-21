@@ -15,4 +15,13 @@
 - Visual inicial gerado foi rejeitado.
 - Referências visuais principais aprovadas: Forbes + Tio Huli.
 - O carrossel da Pauta 1 foi aprovado como protótipo editorial.
-- Próxima prioridade: renderer + imagens reais + tipografia.
+- A versão final visual da Pauta 1, em Editorial Fotográfico Escuro, foi aprovada como referência de qualidade.
+- O visual da Pauta 1 NÃO será template único para as demais pautas.
+- O sistema deve trabalhar com famílias visuais e variar conforme o assunto.
+- Famílias aprovadas: Editorial Fotográfico Escuro; Minimalista Tipográfico; Editorial Claro/Revista; Comparação Visual; Fotografia Protagonista; Dado/Diagrama Editorial.
+- Identidade deve vir de qualidade editorial, tipografia, hierarquia, margens, assinatura, paleta e tese — não da repetição de layout.
+- O pipeline pode usar imagens reais licenciadas quando adequadas e fallback minimalista quando não houver imagem boa.
+- O criativo aprovado no ChatGPT só deve ser enviado ao Telegram quando o pipeline do repositório conseguir reproduzir o padrão aprovado; não disparar o renderer provisório.
+- Próxima prioridade técnica: substituir o renderer provisório por pipeline visual com seleção de família + imagens reais/licenciadas e/ou geração fotográfica.
+- Depois de estabilizar a criação, construir repositório separado de publicação automática para carrosséis e posts estáticos.
+- Vídeos continuam com gravação/publicação manual.
