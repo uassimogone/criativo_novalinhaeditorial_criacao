@@ -1,7 +1,7 @@
 {
   "id": "2026-09-21-pauta-03",
   "formato": "CARROSSEL",
-  "caption": "Discutir a redução da jornada de trabalho sem encarar o fator da produtividade real é ignorar a base da economia. O debate exige profundidade, não slogans vazios.\n\nFonte: https://news.google.com/rss/articles/CBMiogFBVV95cUxPalZ1QkRqV2FNR1FDN0dYVXg2MFZKVmpzcEhEd1Q4cDBqV1ZoeTd1WVFlc3QzRDBYaGdQd2wwc0U3YThkbl91ZUtZVGpka2FiTFVxNVk0Qjh1cXJuM0lQYk9RWVhYbXU0NnVKWV9tZEN2eGNNcnZqMkhxanlLdXQ0YnBvY2ZrdTRiTzN4ZXlhUlhocFRLekZYMHBIYVlsWGxIelE?oc=5",
+  "caption": "Discutir a redução da jornada de trabalho ignorando a realidade da produtividade é ignorar como o valor é gerado na economia real. Não se trata de um debate técnico vazio, mas de entender os limites estruturais do tempo e do esforço humano.\n\nFonte: https://news.google.com/rss/articles/CBMiogFBVV95cUxPalZ1QkRqV2FNR1FDN0dYVXg2MFZKVmpzcEhEd1Q4cDBqV1ZoeTd1WVFlc3QzRDBYaGdQd2wwc0U3YThkbl91ZUtZVGpka2FiTFVxNVk0Qjh1cXJuM0lQYk9RWVhYbXU0NnVKWV9tZEN2eGNNcnZqMkhxanlLdXQ0YnBvY2ZrdTRiTzN4ZXlhUlhocFRLekZYMHBIYVlsWGxIelE?oc=5",
   "assets": [
     "slide_01.png",
     "slide_02.png",
@@ -10,5 +10,23 @@
     "slide_05.png"
   ],
   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPalZ1QkRqV2FNR1FDN0dYVXg2MFZKVmpzcEhEd1Q4cDBqV1ZoeTd1WVFlc3QzRDBYaGdQd2wwc0U3YThkbl91ZUtZVGpka2FiTFVxNVk0Qjh1cXJuM0lQYk9RWVhYbXU0NnVKWV9tZEN2eGNNcnZqMkhxanlLdXQ0YnBvY2ZrdTRiTzN4ZXlhUlhocFRLekZYMHBIYVlsWGxIelE?oc=5",
+  "visual_family": "COMPARISON",
+  "visual_sources": [
+    {
+      "slide": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Douglas_SBD-5_Dauntless_production_line_in_August_1943.jpg",
+      "license": "Public domain",
+      "creator": "Lieutenant Charles Fenno Jacobs, USNR.",
+      "title": "File:Douglas SBD-5 Dauntless production line in August 1943.jpg"
+    },
+    {
+      "slide": 4,
+      "source_url": "https://commons.wikimedia.org/wiki/File:US_federal_minimum_wage_if_it_had_kept_pace_with_productivity._Also,_the_inflation-adjusted_minimum_wage.png",
+      "license": "Public domain",
+      "creator": "Dean Baker, of Center for Economic and Policy Research.\nRussell Weaver and Ian Greer, School of Industrial and Labor Relations.\nUser:Timeshifter added some text with freeware IrfanView.",
+      "title": "File:US federal minimum wage if it had kept pace with productivity. Also, the inflation-adjusted minimum wage.png"
+    }
+  ],
+  "visual_revision": 2,
   "status": "READY_TO_PUBLISH"
 }
