@@ -1,7 +1,7 @@
 {
   "id": "2026-09-21-pauta-01",
   "formato": "CARROSSEL",
-  "caption": "A promessa inicial da inteligência artificial era simples: devolver tempo às equipes e reduzir a jornada. Na prática, o que tem acontecido em muitas empresas é o oposto. O ganho de velocidade não resultou em menos trabalho, mas em uma expansão proporcional das demandas e da pressão por entrega. Quando a tecnologia apenas acelera um modelo operacional disfuncional, ela não gera produtividade real; apenas intensifica o desgaste. Automatizar processos é a parte mais fácil. O verdadeiro gargalo está na liderança que falha em revisar expectativas e em decidir o que fazer com o tempo que a ferramenta devolve.\n\nFonte: https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tWDZMNUFSZ1FOMXNsdjhxZ1Rjc2pQSHl4TGZ1Yk5sSjVXQXJDMTNDb3lnVldvcmVzcFpJdWpYVHotek8xOGV6TURnWXJtWlJUc0NERlFIUURiY05qZW11U2ln0gFnQVVfeXFMTmk5MGNqNlcwdENPV2JhVFVWZVpabmdkQXlTWGQwMFVuOVJjSTUtanJTY0FGOHF3bmlBT2hUd1YwdTQydEVpZFZOXzk4RW5aMUdpNXhqV1BRS21JRWdYR3hYY0VycmlMaw?oc=5",
+  "caption": "A promessa inicial da inteligência artificial no ambiente corporativo era simples: trabalhar menos, produzir mais e recuperar tempo. Na prática, o que muitas equipes têm vivido é o oposto. Com a capacidade de gerar mais resultados em menos tempo, a expectativa de entrega aumentou na mesma proporção — ou até mais. O ganho operacional não se traduziu em alívio na jornada, mas em um volume maior de demandas. Isso evidencia uma falha comum na liderança: a tecnologia otimiza processos, mas não corrige culturas organizacionais disfuncionais. Quando a velocidade operacional aumenta sem uma revisão de prioridades, a IA deixa de ser uma ferramenta de eficiência e passa a atuar como um acelerador de desgaste. A questão central não é sobre quanto trabalho a máquina consegue absorver, mas como as organizações escolhem gerenciar o tempo que ela devolve.\n\nFonte: https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tWDZMNUFSZ1FOMXNsdjhxZ1Rjc2pQSHl4TGZ1Yk5sSjVXQXJDMTNDb3lnVldvcmVzcFpJdWpYVHotek8xOGV6TURnWXJtWlJUc0NERlFIUURiY05qZW11U2ln0gFnQVVfeXFMTmk5MGNqNlcwdENPV2JhVFVWZVpabmdkQXlTWGQwMFVuOVJjSTUtanJTY0FGOHF3bmlBT2hUd1YwdTQydEVpZFZOXzk4RW5aMUdpNXhqV1BRS21JRWdYR3hYY0VycmlMaw?oc=5",
   "assets": [
     "slide_01.png",
     "slide_02.png",
@@ -12,6 +12,6 @@
   "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tWDZMNUFSZ1FOMXNsdjhxZ1Rjc2pQSHl4TGZ1Yk5sSjVXQXJDMTNDb3lnVldvcmVzcFpJdWpYVHotek8xOGV6TURnWXJtWlJUc0NERlFIUURiY05qZW11U2ln0gFnQVVfeXFMTmk5MGNqNlcwdENPV2JhVFVWZVpabmdkQXlTWGQwMFVuOVJjSTUtanJTY0FGOHF3bmlBT2hUd1YwdTQydEVpZFZOXzk4RW5aMUdpNXhqV1BRS21JRWdYR3hYY0VycmlMaw?oc=5",
   "visual_family": "EDITORIAL_DARK",
   "visual_sources": [],
-  "visual_revision": 2,
+  "visual_revision": 3,
   "status": "READY_TO_PUBLISH"
 }

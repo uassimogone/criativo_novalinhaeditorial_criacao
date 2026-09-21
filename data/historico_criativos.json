@@ -3,5 +3,25 @@
     "id": "2026-09-21-pauta-05",
     "formato": "VIDEO_CURTO",
     "lote": "2026-09-21"
+  },
+  {
+    "id": "2026-09-21-pauta-01",
+    "formato": "CARROSSEL",
+    "lote": "2026-09-21"
+  },
+  {
+    "id": "2026-09-21-pauta-02",
+    "formato": "CARROSSEL",
+    "lote": "2026-09-21"
+  },
+  {
+    "id": "2026-09-21-pauta-03",
+    "formato": "CARROSSEL",
+    "lote": "2026-09-21"
+  },
+  {
+    "id": "2026-09-21-pauta-04",
+    "formato": "CARROSSEL",
+    "lote": "2026-09-21"
   }
 ]
