@@ -385,3 +385,23 @@ Publicador futuro:
 Sempre que houver mudança importante de posicionamento, tom de voz, visão de mundo, direção visual, processo, arquitetura, automação, formato ou aprovação/rejeição relevante, atualizar este documento e docs/DECISOES.md.
 
 Este arquivo deve ser tratado como contexto canônico do projeto.
+
+
+## 19. IMPLEMENTAÇÃO EXECUTADA EM 2026-09-21
+
+- O renderer passou a trabalhar com famílias visuais.
+- Foi criado `src/image_researcher.py` como fallback de imagens abertas/licenciadas.
+- O pipeline principal de imagem passou a usar geração fotográfica pela Gemini API (`gemini-3.1-flash-image`) para os slides visuais.
+- Pautas 1–4 foram regeneradas como revisão visual v3.
+- O workflow de criação concluiu com sucesso e enviou os quatro carrosséis pelo fluxo do criador/Telegram.
+- Pauta 1 mantém texto calibrado e imutável nos 5 slides.
+- Famílias usadas na primeira rodada v3:
+  - Pauta 1: EDITORIAL_DARK
+  - Pauta 2: EDITORIAL_LIGHT
+  - Pauta 3: COMPARISON
+  - Pauta 4: PHOTO_PROTAGONIST
+- A publicação automática foi implementada de forma isolada no repositório `frasesepensamentos_publicador`, sem alterar o fluxo de Stories.
+- O publicador coleta pacotes `READY_TO_PUBLISH` diretamente do repositório de criação; o Telegram permanece como canal de prévia/feedback.
+- Os carrosséis coletados entram com `aprovado=false`.
+- O publicador só publica itens com `aprovado=true` e `publicado=false`.
+- A fila atual contém as Pautas 1–4 v3 aguardando aprovação.
