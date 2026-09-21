@@ -43,17 +43,22 @@ Título-base: {pauta['titulo']}
 Tema: {pauta['tema']}
 Fonte: {pauta.get('fonte','')}
 
-REGRAS:
+DIREÇÃO EDITORIAL:
+- linguagem visual de referência: editorial premium, mais próxima de Forbes na capa e ritmo/tese inspirado em Tio Huli nos slides internos;
+- nunca copiar marca, logotipo, layout proprietário ou redação de terceiros;
 - exatamente 5 slides;
-- slide 1 = capa visual + título forte;
-- slides 2 e 3 = desenvolvimento claro;
-- slide 4 = reforço visual + texto curto;
-- slide 5 = conclusão + CTA discreto;
+- slide 1 = capa editorial forte, headline curta, imagem real e alto contraste;
+- slide 2 = contexto objetivo;
+- slide 3 = tese central, mais seca e memorável;
+- slide 4 = segundo momento visual forte, imagem + frase curta ou contraste;
+- slide 5 = fechamento de tese, sem CTA genérico;
+- uma ideia central por slide;
+- menos texto e mais força de headline;
 - linguagem direta, madura, não coach;
 - nada de "5 coisas", "ninguém te conta", "você precisa saber";
 - não inventar fatos;
 - se a fonte não trouxer número no contexto, não invente número;
-- textos curtos o suficiente para leitura confortável no Instagram;
+- textos realmente enxutos: evite parágrafos longos; priorize frases e blocos curtos;
 - tom analítico e acessível;
 - não atribua opinião pessoal nova a Uassi.
 
@@ -91,6 +96,7 @@ Retorne JSON:
             "caption": caption,
             "assets": [p.name for p in imagens],
             "source_url": pauta.get("fonte",""),
+            "visual_style": "EDITORIAL_PREMIUM_FORBES_TIOHULI",
             "status": "READY_TO_PUBLISH",
         }
         (outdir/"manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2)+"\n", encoding="utf-8")
