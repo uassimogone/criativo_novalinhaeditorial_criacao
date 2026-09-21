@@ -137,11 +137,17 @@ Objetivo visual:
 - tipografia de presença;
 - sensação de matéria/análise, não de PowerPoint.
 
-Padrões:
-- Editorial Dark: IA, mercado, empresas, trabalho, negócios, notícias.
-- Tese Editorial: produtividade, patrimônio, comportamento, visão de mundo.
-- Comparação: tese vs realidade, promessa vs consequência, empresa A vs B.
-- Fechamento Premium: último slide com frase central forte e sem CTA genérico.
+A identidade visual NÃO deve depender de um template único.
+
+Famílias visuais aprovadas:
+1. Editorial Fotográfico Escuro.
+2. Minimalista Tipográfico.
+3. Editorial Claro / Revista.
+4. Comparação Visual.
+5. Fotografia Protagonista.
+6. Dado / Diagrama Editorial.
+
+O gerador deve escolher a família conforme a pauta e variar ao longo da semana.
 
 Paleta-base:
 - preto;
@@ -155,9 +161,9 @@ Apoio:
 - azul profundo.
 
 Tipografia:
-- títulos: sans forte/editorial;
+- títulos: fonte forte/editorial;
 - corpo: sans limpa e legível;
-- serif apenas pontualmente;
+- serif pode ser protagonista em pautas premium/reflexivas;
 - hierarquia clara.
 
 ## 8. CARROSSEL-PROTÓTIPO APROVADO
@@ -165,8 +171,7 @@ Tipografia:
 Pauta 1:
 “A IA prometeu produtividade. Muita gente ganhou foi mais trabalho.”
 
-Estrutura aprovada:
-
+Estrutura:
 Slide 1:
 “A IA prometeu produtividade.
 Muita gente ganhou foi mais trabalho.”
@@ -185,7 +190,9 @@ Slide 5:
 “A pergunta certa não é: o que a IA faz?
 É: o que você faz com o tempo que ela devolve?”
 
-Este é o protótipo editorial de referência para as próximas peças.
+A versão visual aprovada em 2026-09-21 usa Editorial Fotográfico Escuro, fotografia com aparência real, tipografia serif de alta presença, contraste escuro/creme, assinatura discreta e linguagem de revista.
+
+Esta peça é referência de QUALIDADE, não um template obrigatório para outras pautas.
 
 ## 9. REFERÊNCIAS DE CRIADORES
 
@@ -268,6 +275,13 @@ Arquivos importantes:
 - docs/MANUAL_VISUAL.md
 - src/generator.py
 - src/renderer.py
+- src/telegram_bot.py
+
+Referência reutilizável de imagens:
+uassimogone/frasesepensamentos_criacao
+- src/image_researcher.py pesquisa imagens abertas no Wikimedia Commons e valida licenças;
+- esse componente pode ser adaptado ao novo criador;
+- quando imagem real adequada não existir, usar fallback minimalista ou geração fotográfica.
 
 ## 12. FLUXO DE APROVAÇÃO
 
@@ -280,6 +294,9 @@ Arquivos importantes:
 7. Feedback altera manual e templates.
 
 Não criar ingestão automática de comandos via Telegram nesta fase.
+
+IMPORTANTE:
+não disparar para Telegram um criativo produzido pelo renderer provisório quando já houver uma versão visual aprovada superior. O pipeline deve primeiro reproduzir o padrão aprovado.
 
 ## 13. PRIMEIRA RODADA APROVADA
 
@@ -298,13 +315,11 @@ Pauta 4 — CARROSSEL
 Pauta 5 — VIDEO_CURTO
 “Estar ocupado o dia todo não é sinal de competência, é sintoma de falta de método”
 
-As cinco pautas foram aprovadas. As pautas 1–4 devem seguir lógica de carrossel; a 5 foi aprovada como vídeo.
+As cinco pautas foram aprovadas.
 
 ## 14. APRENDIZADOS DO PRIMEIRO TESTE VISUAL
 
-A primeira geração automática falhou visualmente.
-
-Problemas identificados:
+Primeira geração automática rejeitada:
 - arte abstrata genérica;
 - fontes sem presença;
 - pouca hierarquia;
@@ -312,41 +327,61 @@ Problemas identificados:
 - ausência de imagem real relevante;
 - composição sem impacto.
 
-Decisão:
-- descartar esse padrão visual;
-- adotar Forbes + Tio Huli como principais referências;
-- reduzir texto;
-- usar imagens reais;
-- melhorar tipografia;
-- trabalhar com famílias de layout.
+Versão manual da Pauta 1 aprovada:
+- Editorial Fotográfico Escuro;
+- fotografia narrativa;
+- tipografia serif editorial;
+- slides 1 e 4 como grandes momentos visuais;
+- coerência entre slides;
+- fechamento forte;
+- sem CTA genérico.
 
-## 15. PRÓXIMO GARGALO
+Nova decisão:
+- não repetir esse estilo em todas as pautas;
+- variar famílias visuais mantendo o mesmo nível de qualidade.
 
-O texto já está razoavelmente calibrado.
+## 15. GARGALO ATUAL
 
-O principal gargalo agora é:
-- pipeline de imagens reais;
-- composição visual;
+O texto está calibrado.
+
+O principal gargalo é transformar a qualidade visual aprovada em pipeline automatizado:
+- seleção de família visual;
+- pesquisa de imagens reais/licenciadas;
+- geração fotográfica quando necessária;
+- composição;
 - tipografia;
-- renderização sofisticada;
-- criação de templates que pareçam editoriais de verdade.
+- renderização sofisticada.
 
-O renderer.py atual é provisório e não representa o padrão visual aprovado.
-
-Não considerar a automação visual concluída até que esse renderer seja substituído.
+O renderer.py atual é provisório e NÃO representa o padrão visual aprovado.
 
 ## 16. PRÓXIMOS PASSOS
 
-1. Reestruturar o renderer.
-2. Integrar imagens reais/licenciadas ou outra fonte segura.
-3. Refazer a Pauta 1 no padrão visual aprovado.
-4. Validar visualmente.
-5. Só então replicar para Pautas 2–4.
-6. Depois construir o publicador automático para carrosséis/estáticos.
-7. Vídeos continuam manuais.
+1. Registrar famílias visuais no gerador.
+2. Adaptar o pesquisador de imagens/licenças do projeto frasesepensamentos_criacao.
+3. Substituir o renderer provisório por layouts editoriais por família.
+4. Fazer o pipeline conseguir reproduzir o nível da Pauta 1.
+5. Gerar Pautas 2–4 com famílias visuais diferentes conforme o tema.
+6. Enviar as versões aprovadas ao Telegram.
+7. Em seguida criar repositório separado para publicação automática de carrosséis e posts estáticos.
+8. Vídeos continuam manuais.
 
-## 17. REGRA DE CONTINUIDADE
+## 17. PUBLICAÇÃO
 
-Sempre que houver mudança importante de posicionamento, tom de voz, visão de mundo, direção visual, processo, arquitetura, automação, formato ou aprovação/rejeição relevante, atualizar este documento.
+A criação e a publicação permanecerão separadas.
+
+Criador:
+- prepara pacote final;
+- envia ao Telegram;
+- registra histórico.
+
+Publicador futuro:
+- consumirá apenas pacotes READY_TO_PUBLISH já aprovados;
+- publicará carrosséis e posts estáticos;
+- não publicará vídeo automaticamente nesta fase;
+- deve preservar a possibilidade de revisão manual antes da publicação.
+
+## 18. REGRA DE CONTINUIDADE
+
+Sempre que houver mudança importante de posicionamento, tom de voz, visão de mundo, direção visual, processo, arquitetura, automação, formato ou aprovação/rejeição relevante, atualizar este documento e docs/DECISOES.md.
 
 Este arquivo deve ser tratado como contexto canônico do projeto.
