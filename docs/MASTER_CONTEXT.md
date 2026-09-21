@@ -405,3 +405,5 @@ Este arquivo deve ser tratado como contexto canônico do projeto.
 - Os carrosséis coletados entram com `aprovado=false`.
 - O publicador só publica itens com `aprovado=true` e `publicado=false`.
 - A fila atual contém as Pautas 1–4 v3 aguardando aprovação.
+
+- Horário oficial de publicação automática da nova linha editorial: 07:00 de Brasília, no máximo 1 conteúdo por dia.
