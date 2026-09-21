@@ -31,3 +31,5 @@
 - Publicador de carrosséis implementado no repositório frasesepensamentos_publicador, em pipeline isolado do Stories.
 - Fonte operacional do publicador: pacotes READY_TO_PUBLISH no repositório de criação; Telegram permanece para revisão humana.
 - Publicação automática exige flag aprovado=true; itens coletados entram sempre como aprovado=false.
+
+- Horário oficial de publicação automática: 07:00 de Brasília, com no máximo 1 conteúdo por dia.
