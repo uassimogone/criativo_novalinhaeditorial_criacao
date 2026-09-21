@@ -1,0 +1,53 @@
+name: Criacao Editorial
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/pautas_aprovadas.json'
+      - 'main.py'
+      - 'requirements.txt'
+      - 'src/**'
+      - '.github/workflows/criacao-semanal.yml'
+  schedule:
+    # Domingo, 06:30 em Brasília = 09:30 UTC
+    - cron: '30 09 * * 0'
+
+jobs:
+  criar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Gerar criativos
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py
+
+      - name: Persistir criativos e historico
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output data/historico_criativos.json
+          git commit -m "Auto: gera criativos editoriais" || exit 0
+          git push origin main
