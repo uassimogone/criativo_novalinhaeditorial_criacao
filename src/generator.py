@@ -59,6 +59,68 @@ class Gerador:
             FAMILY_DATA: "Dado/Diagrama Editorial: relação ou dado em destaque, sem cara de dashboard corporativo.",
         }.get(family, "Editorial Claro/Revista.")
 
+    def _generate_editorial_photo(self, pauta, slide_num, query, family, target_dir):
+        target_dir.mkdir(parents=True, exist_ok=True)
+        target = target_dir / f"{pauta['id']}_s{slide_num}_generated.png"
+        mood = {
+            FAMILY_DARK: "dark cinematic editorial photography, sophisticated magazine mood, dramatic practical lighting, deep charcoal tones",
+            FAMILY_LIGHT: "premium contemporary editorial photography, clean natural light, sophisticated business magazine aesthetic",
+            FAMILY_COMPARE: "editorial documentary photography with a clear visual tension or contrast, premium magazine aesthetic",
+            FAMILY_PHOTO: "high-end documentary editorial photography, strong composition, human and architectural realism",
+            FAMILY_DATA: "clean editorial still life photography, neutral background, restrained composition",
+            FAMILY_MINIMAL: "minimal editorial still life photography, large negative space, restrained palette",
+        }.get(family, "premium editorial photography")
+
+        prompt = f"""
+Create a vertical 4:5 photographic background for an Instagram editorial carousel.
+
+Topic: {pauta['tema']}
+Visual subject: {query}
+Art direction: {mood}.
+
+Rules:
+- photorealistic editorial photography;
+- NO text, letters, logos, watermarks, signs, captions or interface words inside the image;
+- leave useful negative space for typography;
+- strong composition suitable for a premium magazine feature;
+- realistic people when people are present;
+- avoid generic stock-photo smiles;
+- avoid futuristic sci-fi clichés unless the topic explicitly requires them;
+- image must support the idea, not merely decorate it.
+"""
+        try:
+            response = self.client.models.generate_content(
+                model="gemini-3.1-flash-image",
+                contents=[prompt],
+            )
+            for part in response.parts:
+                if getattr(part, "inline_data", None) is not None:
+                    part.as_image().save(target)
+                    return target, {
+                        "slide": slide_num,
+                        "source_url": "generated://gemini-3.1-flash-image",
+                        "license": "AI_GENERATED",
+                        "creator": "Gemini API",
+                        "title": query,
+                    }
+        except Exception as exc:
+            print(f"Falha ao gerar imagem editorial para slide {slide_num}: {exc}")
+
+        fallback = self.images.find_and_download(
+            query=query,
+            content_id=f"{pauta['id']}_s{slide_num}",
+            target_dir=target_dir,
+        )
+        if fallback:
+            return fallback.local_path, {
+                "slide": slide_num,
+                "source_url": fallback.source_url,
+                "license": fallback.license_name,
+                "creator": fallback.creator,
+                "title": fallback.title,
+            }
+        return None, None
+
     def _carrossel_data(self, pauta, family):
         slides_aprovados = pauta.get("slides_aprovados")
         if slides_aprovados and len(slides_aprovados) == 5:
@@ -161,22 +223,19 @@ Retorne JSON:
             if family == FAMILY_PHOTO and i == 5:
                 wants_photo = True
 
+            visual_path = None
             if wants_photo:
                 query = str(forced_queries.get(str(i), "") or s.get("visual_query", "")).strip()
                 if query:
-                    visual_asset = self.images.find_and_download(
+                    visual_path, source = self._generate_editorial_photo(
+                        pauta=pauta,
+                        slide_num=i,
                         query=query,
-                        content_id=f"{pauta['id']}_s{i}",
+                        family=family,
                         target_dir=assets_dir,
                     )
-                    if visual_asset:
-                        visual_sources.append({
-                            "slide": i,
-                            "source_url": visual_asset.source_url,
-                            "license": visual_asset.license_name,
-                            "creator": visual_asset.creator,
-                            "title": visual_asset.title,
-                        })
+                    if source:
+                        visual_sources.append(source)
 
             render_slide(
                 path=path,
@@ -184,7 +243,7 @@ Retorne JSON:
                 titulo=s.get("titulo", ""),
                 corpo=s.get("corpo", ""),
                 family=family,
-                visual_path=visual_asset.local_path if visual_asset else None,
+                visual_path=visual_path,
             )
             imagens.append(path)
 
