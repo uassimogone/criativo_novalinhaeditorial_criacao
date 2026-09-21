@@ -3,56 +3,191 @@
 ## Referências principais
 Direção visual inspirada em linguagem editorial premium próxima de Forbes e no ritmo/tese dos carrosséis de Tio Huli, sem copiar marca, logotipo, layout proprietário ou composição distintiva.
 
+A referência é de qualidade editorial, não de repetição de template.
+
 ## Objetivo
-Os carrosséis devem parecer conteúdo editorial premium, com tese forte, imagem com função narrativa e tipografia de alta presença. Evitar aparência de PowerPoint, Canva genérico ou arte abstrata decorativa.
+Os carrosséis devem parecer conteúdo editorial premium, com tese forte, imagem com função narrativa e tipografia de alta presença. Evitar aparência de PowerPoint, Canva genérico, arte abstrata decorativa ou feed visualmente repetitivo.
+
+A identidade da marca deve vir de:
+- qualidade tipográfica;
+- hierarquia;
+- margens e respiro;
+- assinatura discreta;
+- paleta controlada;
+- pouco texto;
+- força de tese;
+- coerência editorial.
+
+Não deve vir da repetição da mesma composição em todas as pautas.
 
 ## Estrutura padrão
 - Ideal: 5 slides.
 - Máximo: 7 slides.
-- Slide 1: capa forte, imagem real, headline curta e clara.
+- Slide 1: capa forte.
 - Slide 2: contexto.
 - Slide 3: tese central.
-- Slide 4: segundo momento visual forte, com imagem + frase ou comparação.
+- Slide 4: segundo momento visual forte.
 - Slide 5: fechamento de tese; sem CTA genérico.
+- Uma ideia central por slide.
 
 ## Texto
-- Uma ideia principal por slide.
 - Headline curta.
 - Corpo enxuto.
 - Sem parágrafos longos.
 - Sem fórmulas como "5 coisas", "ninguém te conta" ou "você precisa saber".
 - Fechamento reflexivo, sem "comente", "salve", "marque alguém" como padrão.
+- Não atribuir opinião nova a Uassi sem validação.
 
-## Direção visual
-- Priorizar foto real ou imagem contextual.
-- Capa com alto contraste.
-- Preferência por fundo escuro/foto escurecida em pautas de negócios, IA, mercado, trabalho e notícias.
-- Slides internos podem alternar entre editorial escuro e composições mais limpas.
-- Pelo menos 2 slides visualmente fortes: 1 e 4 por padrão.
-- Imagem precisa acrescentar contexto ou tensão narrativa.
+## Famílias visuais
+
+### 1. Editorial Fotográfico Escuro
+Uso:
+- IA;
+- mercado;
+- trabalho;
+- empresas;
+- notícias;
+- comportamento com tensão ou conflito.
+
+Características:
+- fotografia real ou imagem gerada com aparência fotográfica;
+- fundo escuro;
+- contraste alto;
+- serif editorial forte combinada com sans limpa;
+- detalhes discretos de revista;
+- clima sofisticado, dramático e analítico.
+
+### 2. Minimalista Tipográfico
+Uso:
+- valores;
+- carreira;
+- mentalidade;
+- patrimônio;
+- reflexões;
+- frases-tese fortes.
+
+Características:
+- fundo limpo;
+- bastante espaço negativo;
+- uma frase dominante;
+- pouca ou nenhuma imagem;
+- tipografia como elemento visual principal;
+- preto, branco, off-white e cor de apoio discreta.
+
+### 3. Editorial Claro / Revista
+Uso:
+- negócios;
+- economia;
+- análise;
+- patrimônio;
+- temas explicativos.
+
+Características:
+- base off-white ou clara;
+- recortes editoriais;
+- serif + sans;
+- linhas, boxes e dados com parcimônia;
+- sensação de página de revista contemporânea.
+
+### 4. Comparação Visual
+Uso:
+- promessa vs realidade;
+- curto prazo vs longo prazo;
+- ferramenta vs cultura;
+- discurso vs consequência;
+- empresa A vs B quando houver base factual.
+
+Características:
+- tela dividida ou contraste claro de blocos;
+- duas forças visuais;
+- pouco texto;
+- leitura imediata do conflito.
+
+### 5. Fotografia Protagonista
+Uso:
+- lifestyle;
+- experiências;
+- comportamento;
+- viagens;
+- temas humanos.
+
+Características:
+- imagem ocupando a maior parte do slide;
+- texto mínimo;
+- fotografia com função narrativa;
+- composição mais respirada.
+
+### 6. Dado / Diagrama Editorial
+Uso:
+- número forte;
+- tendência;
+- comparação;
+- relação causal;
+- mudança de mercado.
+
+Características:
+- visualização simples;
+- sem estética de dashboard corporativo;
+- número ou relação como protagonista;
+- editorial, não infográfico genérico.
+
+## Regra de variação
+Os carrosséis não devem usar sempre a mesma família visual.
+
+O gerador deve escolher a família mais adequada ao assunto e variar ao longo da semana. Duas pautas consecutivas só devem repetir a mesma família quando houver justificativa editorial.
+
+O padrão fixo é qualidade e identidade; a composição deve variar.
+
+## Imagens
+Prioridade:
+1. imagem real relevante e licenciada, quando existir;
+2. imagem gerada com aparência fotográfica quando a pauta exigir uma metáfora ou cena difícil de obter;
+3. composição minimalista sem imagem quando a imagem não acrescentar valor.
+
+Fontes abertas podem incluir Wikimedia Commons com verificação de licença. Imagens ruins, genéricas ou pouco pertinentes devem ser rejeitadas.
 
 ## Tipografia
-- Títulos com fonte sans de presença editorial, peso alto.
+- Títulos com fonte de presença editorial.
 - Corpo com sans limpa e legível.
-- Serif apenas pontualmente, quando a pauta pedir tom mais sofisticado/reflexivo.
+- Serif pode ser protagonista em peças premium/reflexivas.
 - Hierarquia muito clara entre manchete, apoio e corpo.
+- Evitar DejaVu como escolha visual final quando houver alternativa editorial melhor.
 
 ## Paleta
-Base: preto, branco, cinza escuro, off-white.
-Apoio: vermelho, amarelo/dourado discreto, azul profundo.
+Base:
+- preto;
+- branco;
+- cinza escuro;
+- off-white.
+
+Apoio:
+- vermelho;
+- amarelo/dourado discreto;
+- azul profundo.
+
 Usar cor de destaque com parcimônia.
 
-## Padrões de template
-1. Editorial Dark — notícias, IA, mercado, trabalho, negócios.
-2. Tese Editorial — comportamento, produtividade, patrimônio, visão de mundo.
-3. Comparação — tese vs realidade, promessa vs consequência, empresa A vs B.
-4. Fechamento Premium — conclusão visual forte.
-
 ## Protótipo aprovado — Pauta 1
-Capa: "A IA prometeu produtividade. Muita gente ganhou foi mais trabalho."
-Slide 2: "O ganho de tempo virou mais demanda."
-Slide 3: "Isso não é produtividade."
-Slide 4: "A tecnologia melhora o processo. Ela não corrige uma cultura ruim."
-Slide 5: "A pergunta certa não é: o que a IA faz? É: o que você faz com o tempo que ela devolve?"
+Pauta:
+"A IA prometeu produtividade. Muita gente ganhou foi mais trabalho."
 
-Esta estrutura é a referência editorial aprovada para calibrar as próximas pautas.
+A versão visual aprovada em 2026-09-21 utiliza a família **Editorial Fotográfico Escuro**.
+
+Elementos aprovados:
+- fotografia com aparência real;
+- clima noturno/profissional;
+- tipografia serif editorial de grande presença;
+- contraste branco/off-white;
+- assinatura discreta;
+- linhas finas e detalhes editoriais;
+- slide 4 como segundo grande momento visual;
+- coerência entre os 5 slides sem transformar o sistema em template único.
+
+Estrutura editorial:
+- Slide 1: "A IA prometeu produtividade. Muita gente ganhou foi mais trabalho."
+- Slide 2: "O ganho de tempo virou mais demanda."
+- Slide 3: "Isso não é produtividade."
+- Slide 4: "A tecnologia melhora o processo. Ela não corrige uma cultura ruim."
+- Slide 5: "A pergunta certa não é: o que a IA faz? É: o que você faz com o tempo que ela devolve?"
+
+Esta peça é referência de nível de qualidade, não um molde obrigatório para as demais pautas.
