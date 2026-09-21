@@ -6,6 +6,7 @@ from src.history import carregar, salvar
 from src.telegram_bot import enviar_texto, enviar_carrossel
 
 def main():
+    # Entrada: fila aprovada no ChatGPT; saída: pacote editorial pronto.
     pautas = json.loads(Path("data/pautas_aprovadas.json").read_text(encoding="utf-8"))
     historico = carregar()
     feitos = {x.get("id") for x in historico}
