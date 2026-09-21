@@ -25,3 +25,9 @@
 - Próxima prioridade técnica: substituir o renderer provisório por pipeline visual com seleção de família + imagens reais/licenciadas e/ou geração fotográfica.
 - Depois de estabilizar a criação, construir repositório separado de publicação automática para carrosséis e posts estáticos.
 - Vídeos continuam com gravação/publicação manual.
+
+- Implementado pipeline principal de fotografia gerada com Gemini API; Wikimedia Commons fica como fallback.
+- Revisão visual v3 das Pautas 1–4 concluída com sucesso.
+- Publicador de carrosséis implementado no repositório frasesepensamentos_publicador, em pipeline isolado do Stories.
+- Fonte operacional do publicador: pacotes READY_TO_PUBLISH no repositório de criação; Telegram permanece para revisão humana.
+- Publicação automática exige flag aprovado=true; itens coletados entram sempre como aprovado=false.
