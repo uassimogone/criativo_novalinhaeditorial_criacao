@@ -61,3 +61,13 @@
 - Lifestyle deve parecer vivido/documental, não ensaio publicitário.
 - Referências políticas serão usadas somente para linguagem visual/composição, sem importar automaticamente a opinião ou tese política da peça original.
 - Regra consolidada: naturalidade e especificidade da imagem têm prioridade sobre uniformidade estética.
+
+
+## 2026-09-22 — fluxo oficial de publicação
+
+- Fluxo oficial: Radar → aprovação no ChatGPT → criação final no ChatGPT → envio dos arquivos finais para o GitHub → fila de publicação → Instagram.
+- Não haverá uma segunda aprovação editorial dentro da fila do GitHub.
+- O conteúdo só entra na fila depois de estar finalizado e validado no ChatGPT.
+- A fila é operacional: organiza, agenda, registra status e entrega ao publicador.
+- Carrosséis devem entrar na fila com cada slide como arquivo independente.
+- O GitHub não deve recriar ou reinterpretar o criativo final recebido do ChatGPT.
