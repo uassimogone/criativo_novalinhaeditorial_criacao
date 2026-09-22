@@ -407,3 +407,40 @@ Este arquivo deve ser tratado como contexto canônico do projeto.
 - A fila atual contém as Pautas 1–4 v3 aguardando aprovação.
 
 - Horário oficial de publicação automática da nova linha editorial: 07:00 de Brasília, no máximo 1 conteúdo por dia.
+
+## 20. REDEFINIÇÃO VISUAL E DE FLUXO — 2026-09-22
+
+As referências visuais reenviadas pelo usuário consolidam uma regra mais exigente para a produção.
+
+### Fluxo criativo vigente
+O radar editorial roda no ChatGPT. O ChatGPT pesquisa e apresenta as pautas; Uassi aprova, reprova ou corrige; o ChatGPT produz os criativos finais e a legenda. A etapa futura é criar uma ponte para enviar esses arquivos finais ao coletor/publicador no GitHub.
+
+O renderer automatizado do repositório não é mais a fonte do criativo visual final. GitHub deve assumir prioritariamente funções operacionais de ingestão, fila, status, histórico e publicação.
+
+### Regra física de carrossel
+Carrossel significa arquivos/slides separados. Nunca entregar uma única imagem contendo vários slides montados lado a lado ou em grade. Para 5 slides, devem existir 5 arquivos independentes em proporção adequada ao Instagram.
+
+### Hierarquia de imagem
+1. Fotografia real/documental/editorial forte e pertinente ao fato ou tese.
+2. Minimalismo tipográfico quando não existir imagem realmente boa.
+3. Imagem gerada por IA apenas quando houver justificativa conceitual clara e quando o resultado não tiver aparência genérica de IA.
+
+Não preencher o feed com fotografia gerada por IA.
+
+### Linguagem extraída das referências
+- fotografia real como evidência ou protagonista, não como decoração;
+- capas simples, com uma imagem forte e uma manchete curta;
+- sobre imagem, tipografia branca/sólida de leitura imediata e contraste alto;
+- serif editorial reservada principalmente a reflexão, citação e tese premium;
+- sans bold para notícia, análise, comparação e leitura rápida;
+- composições de contraste podem usar duas fotografias reais, divisão simples e uma linha de acento;
+- posts tipográficos puros continuam válidos, mas são a solução básica, não substituem direção de arte quando a pauta pede imagem;
+- reduzir adornos, microtextos, selos, falsas interfaces e elementos de “revista” que não tenham função;
+- imagem deve sustentar a tese e ter relação verificável com o assunto;
+- evitar banco de imagens corporativo clichê e cenas genéricas geradas por IA.
+
+### Referências reenviadas
+Forbes Brasil e Tio Huli continuam como referências de linguagem editorial e ritmo visual, sem cópia de identidade, marca, layout proprietário ou redação.
+
+### Status da Pauta 4
+A composição entregue como uma única imagem contendo os cinco slides foi rejeitada. Ela não deve ser tratada como carrossel aprovado nem entrar na fila de publicação. A Pauta 4 deve ser refeita em cinco arquivos separados, com pesquisa/curadoria de imagens reais antes de qualquer geração por IA.
