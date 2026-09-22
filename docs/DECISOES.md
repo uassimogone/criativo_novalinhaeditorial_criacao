@@ -94,3 +94,14 @@
 - Em novos chats, consultar STATUS_ATUAL, MASTER_CONTEXT, DECISOES, MANUAL_VISUAL e fila do publicador antes de iniciar o trabalho.
 - O usuário não deve precisar reexplicar decisões, estilo, fluxo ou estado da produção.
 - STATUS_ATUAL deve ser atualizado no encerramento de cada semana.
+
+
+## 2026-09-22 — agendamento por data
+
+- Pauta 2 foi publicada manualmente em 22/09/2026.
+- Pauta 1 será publicada manualmente em 23/09/2026.
+- Pauta 3 foi aprovada visualmente e tem intenção de publicação em 24/09/2026 às 07:00.
+- O publicador passou a exigir `scheduled_for` em cada item da fila.
+- Um item `QUEUED` só é elegível quando sua data/hora programada já chegou.
+- O workflow permanece diário às 07:00 de Brasília.
+- A existência de intenção de data não equivale a agendamento efetivo: o item precisa estar gravado na fila com seus arquivos finais.
