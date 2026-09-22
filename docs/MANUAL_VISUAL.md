@@ -191,3 +191,87 @@ Estrutura editorial:
 - Slide 5: "A pergunta certa não é: o que a IA faz? É: o que você faz com o tempo que ela devolve?"
 
 Esta peça é referência de nível de qualidade, não um molde obrigatório para as demais pautas.
+
+## DIRETRIZ PRIORITÁRIA — REVISÃO 2026-09-22
+
+Esta seção prevalece sobre orientações anteriores em caso de conflito.
+
+### 1. Carrossel é uma sequência de arquivos
+Cada slide deve ser um arquivo independente. Uma montagem com vários slides dentro da mesma imagem serve, no máximo, como prancha de apresentação interna e nunca como entrega final.
+
+### 2. O que as referências realmente têm em comum
+As referências Forbes Brasil e Tio Huli não apontam para um único template. O padrão comum é editorial:
+- imagem real forte e diretamente ligada ao assunto;
+- manchete curta e imediatamente legível;
+- alto contraste;
+- poucos elementos;
+- hierarquia evidente;
+- fotografia ocupando área relevante quando escolhida;
+- design subordinado à tese, e não o contrário.
+
+### 3. Fotografia real é a primeira escolha
+Quando a pauta nasce de pessoa, empresa, lugar, fato, edifício, mercado, evento ou personagem histórico real, pesquisar primeiro fotografia real/documental/editorial adequada e com possibilidade de uso.
+
+A fotografia deve funcionar como evidência visual ou contexto. Não usar foto genérica apenas porque o slide “precisa de imagem”.
+
+### 4. IA visual é exceção
+Gerar imagem por IA apenas quando:
+- a pauta depende de uma metáfora visual difícil de fotografar;
+- não há fotografia real adequada;
+- o conceito exige uma cena impossível ou altamente controlada;
+- o resultado não parece banco de imagem artificial.
+
+Se a alternativa for uma imagem de IA clichê, preferir slide tipográfico.
+
+### 5. Proibições por padrão
+Evitar:
+- reunião corporativa genérica;
+- aperto de mãos;
+- executivo sorrindo para câmera;
+- pessoas apontando para gráficos;
+- laptop + café + caderno;
+- corredor de escritório;
+- balança da Justiça;
+- martelo de juiz;
+- skyline genérico sem relação comprovada com o assunto;
+- luxo genérico;
+- cenas “cinematográficas” artificiais apenas para parecer premium;
+- excesso de pequenos rótulos, categorias, selos, linhas e microcopy decorativa.
+
+### 6. Tipografia conforme função
+**Notícia, fato, comparação, explicação:** sans bold, direta, de leitura rápida sobre fotografia real ou fundo simples.
+
+**Reflexão, frase, tese premium:** serif forte ou combinação serif/sans, com bastante respiro.
+
+**Post tipográfico puro:** válido e desejável quando a frase é o próprio objeto visual; não precisa receber imagem artificial para parecer sofisticado.
+
+### 7. Modos visuais prioritários
+A. **Foto documental + headline** — imagem real em tela cheia ou quase cheia, overlay discreto e texto curto.
+
+B. **Duas imagens reais em contraste** — divisão simples para comparação, tempo, causa/efeito ou personagens/ideias opostas.
+
+C. **Tipografia pura** — fundo limpo, frase dominante, assinatura discreta.
+
+D. **Foto real + citação/tese** — retrato ou contexto real escurecido com texto de alto contraste.
+
+E. **Editorial claro** — foto/recorte real + área branca e hierarquia simples, sem simular página de revista com ornamentos gratuitos.
+
+### 8. Regra de curadoria
+Antes de gerar qualquer imagem, perguntar internamente:
+1. Existe uma fotografia real forte para este assunto?
+2. A imagem acrescenta informação ou emoção relevante?
+3. Ela parece específica desta pauta ou poderia estar em qualquer post?
+4. O texto continua legível no celular?
+5. A composição parece editorial ou parece template/Canva/IA?
+6. Se eu retirar a imagem, o post melhora? Se sim, usar tipografia.
+
+### 9. Referência não é cópia
+Usar Forbes Brasil e Tio Huli para aprender:
+- proporção entre imagem e texto;
+- força de manchete;
+- simplicidade;
+- uso de fotografia documental;
+- ritmo entre slides;
+- contraste tipográfico.
+
+Não copiar logotipos, marcas, cores proprietárias, layouts distintivos, textos ou composições específicas.
