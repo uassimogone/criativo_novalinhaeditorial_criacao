@@ -444,3 +444,20 @@ Forbes Brasil e Tio Huli continuam como referências de linguagem editorial e ri
 
 ### Status da Pauta 4
 A composição entregue como uma única imagem contendo os cinco slides foi rejeitada. Ela não deve ser tratada como carrossel aprovado nem entrar na fila de publicação. A Pauta 4 deve ser refeita em cinco arquivos separados, com pesquisa/curadoria de imagens reais antes de qualquer geração por IA.
+
+
+## 21. NOVO LOTE DE REFERÊNCIAS VISUAIS — 2026-09-22
+
+O novo lote enviado pelo usuário reforça que a identidade não deve ser confundida com uniformidade estética. As referências variam bastante, mas preservam naturalidade, clareza e força de tese.
+
+Aprendizados adicionais:
+- aceitar alternância entre capa tipográfica, fotografia documental, fotografia histórica/cultural, montagem noticiosa, contraste visual e lifestyle documental;
+- imagem reconhecível e específica pode carregar quase toda a peça; o texto entra curto;
+- uma obra de arte, fotografia histórica, edifício real, produto, personagem, paisagem ou cena cotidiana pode ser protagonista quando tiver relação intelectual direta com a tese;
+- capas podem ser muito simples quando a frase é forte; não é obrigatório “sofisticar” com ornamentos;
+- carrosséis podem mudar de linguagem de um slide para outro, desde que haja coerência de tipografia, tratamento e raciocínio editorial;
+- composições mais gráficas e montagens são admitidas para notícias/negócios quando ajudam a explicar conflito, concorrência ou transformação, mas não devem virar padrão nem substituir fotografia real quando ela for suficiente;
+- lifestyle deve privilegiar cenas naturais/documentais e texto mínimo, evitando pose publicitária;
+- referências políticas servem apenas como referência de composição visual e impacto tipográfico; não implicam adoção automática de tese, posicionamento ou mensagem política.
+
+Princípio consolidado: **naturalidade antes de uniformidade; especificidade antes de estética genérica; direção de arte escolhida pela pauta, não por um template fixo.**
