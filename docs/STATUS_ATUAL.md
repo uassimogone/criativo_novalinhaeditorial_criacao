@@ -65,17 +65,21 @@ Pautas aprovadas em 2026-09-21:
 - Prioridade: fotografia real/documental específica → tipografia → IA apenas excepcionalmente.
 - Pauta 1 permanece como referência de qualidade visual/editorial, não como template obrigatório.
 
-## 6. FILA DE PUBLICAÇÃO
+## 6. PUBLICAÇÕES E FILA
 
 Estado em 2026-09-22:
-- fila: vazia;
-- itens QUEUED: 0;
-- itens agendados para publicação: 0.
+- Pauta 2: publicada manualmente em 22/09/2026.
+- Pauta 1: publicação manual planejada para 23/09/2026.
+- Pauta 3: criativo aprovado; intenção de publicação em 24/09/2026 às 07:00. O publicador já suporta scheduled_for, mas o envio dos arquivos finais à fila ainda precisa ser concluído para o agendamento ficar efetivo.
+- Pauta 4: pendente de produção/refação.
+- Pauta 5: pendente de roteiro + texto para teleprompter.
+- fila atual: vazia;
+- itens QUEUED: 0.
 
-Portanto, neste momento não existe conteúdo da Nova Linha Editorial com data efetiva de publicação reservada.
+A fila só passa a representar um agendamento efetivo quando os arquivos finais estiverem no GitHub e o item correspondente constar como QUEUED com scheduled_for.
 
 ## 7. AUTOMAÇÕES ATIVAS RELACIONADAS
 
 - Radar editorial: sábado às 06:00 de Brasília.
 - Publicador da Nova Linha Editorial: diariamente às 07:00 de Brasília.
-- Regra do publicador: máximo de 1 conteúdo por dia e somente itens QUEUED.
+- Regra do publicador: máximo de 1 conteúdo por dia, somente itens QUEUED e somente quando scheduled_for já tiver chegado.
