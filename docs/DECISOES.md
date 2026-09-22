@@ -127,3 +127,12 @@
 - Status operacional no publicador: `QUEUED`.
 - O workflow do publicador passou a ter também uma janela às 18:00 de Brasília.
 - O publicador passou a aceitar assets remotos do repositório de criação, evitando duplicação desnecessária de arquivos binários.
+
+
+## 2026-09-22 — GitHub como agenda de publicação
+
+- Publicações da Nova Linha Editorial não usarão mais automações do ChatGPT.
+- A agenda oficial fica no campo `scheduled_for` da fila do GitHub.
+- Conteúdo aprovado deve ser inserido diretamente no GitHub assim que ficar pronto.
+- O GitHub Actions é responsável por verificar a fila e publicar quando chegar a data/hora.
+- O ChatGPT atua apenas na criação, aprovação e envio do pacote final ao GitHub.
