@@ -85,3 +85,12 @@
 - O código bloqueia mais de uma publicação da Nova Linha Editorial no mesmo dia.
 - Estados operacionais: `QUEUED`, `PUBLISHED`, `ERROR`.
 - O pipeline de Stories existente permanece separado e preservado.
+
+
+## 2026-09-22 — organização semanal dos chats
+
+- Cada semana será tratada em um chat novo.
+- Criado `docs/STATUS_ATUAL.md` como ponto de entrada operacional para novos chats.
+- Em novos chats, consultar STATUS_ATUAL, MASTER_CONTEXT, DECISOES, MANUAL_VISUAL e fila do publicador antes de iniciar o trabalho.
+- O usuário não deve precisar reexplicar decisões, estilo, fluxo ou estado da produção.
+- STATUS_ATUAL deve ser atualizado no encerramento de cada semana.
