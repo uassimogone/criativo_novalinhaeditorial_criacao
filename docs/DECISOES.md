@@ -33,3 +33,19 @@
 - Publicação automática exige flag aprovado=true; itens coletados entram sempre como aprovado=false.
 
 - Horário oficial de publicação automática: 07:00 de Brasília, com no máximo 1 conteúdo por dia.
+
+## 2026-09-22 — redefinição visual
+
+- Carrossel deve ser entregue como slides/arquivos separados; é proibido entregar uma única imagem com vários slides em grade ou montagem.
+- O radar, a aprovação e a criação final passam a acontecer no ChatGPT.
+- GitHub fica orientado a ingestão, fila, status, histórico e publicação; o renderer automatizado não é a fonte preferencial da arte final.
+- Prioridade visual: fotografia real/documental/editorial forte > minimalismo tipográfico > imagem gerada por IA.
+- IA visual deve ser exceção, usada quando houver justificativa conceitual e sem aparência genérica.
+- O feed não deve ser recheado de imagens de IA.
+- Imagem real deve ter função editorial e relação concreta com a pauta; não usar foto apenas para preencher espaço.
+- Evitar banco de imagem corporativo clichê: reuniões genéricas, handshake, laptop/café, pessoas apontando gráficos, corredores, balança, martelo e equivalentes.
+- Nas referências, sans bold sobre fotografia funciona para notícia/análise; serif de alta presença funciona melhor para reflexão/citação/tese premium.
+- Reduzir adornos editoriais artificiais, microcopy decorativa, selos e marcas gráficas sem função.
+- Posts tipográficos minimalistas continuam aprovados, mas são a solução básica; pautas com imagem exigem curadoria e direção de arte superiores.
+- Pauta 4 visual entregue em montagem única foi rejeitada e não deve ser publicada.
+- Pauta 4 deve ser refeita em cinco arquivos separados e com pesquisa de imagens reais como primeira opção.
