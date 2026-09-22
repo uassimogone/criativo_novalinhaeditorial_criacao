@@ -117,3 +117,13 @@
 - Slide 1 usa fotografia real de vaca no pasto, fonte Wikimedia Commons, obra de Gerda Arendt em CC0 1.0.
 - Slides 2–5 são composições tipográficas/editoriais, sem fotografia de IA.
 - Regra visual reforçada: fotografia real sempre que houver imagem; IA visual apenas quando não existir alternativa real adequada.
+
+
+## 2026-09-22 — Pauta 4 aprovada e agendada
+
+- Pauta 4 aprovada pelo usuário com o pacote visual já existente.
+- Legenda final registrada.
+- Publicação automática agendada para 25/09/2026 às 18:00 de Brasília.
+- Status operacional no publicador: `QUEUED`.
+- O workflow do publicador passou a ter também uma janela às 18:00 de Brasília.
+- O publicador passou a aceitar assets remotos do repositório de criação, evitando duplicação desnecessária de arquivos binários.
