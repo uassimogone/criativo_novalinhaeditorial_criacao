@@ -105,3 +105,15 @@
 - Um item `QUEUED` só é elegível quando sua data/hora programada já chegou.
 - O workflow permanece diário às 07:00 de Brasília.
 - A existência de intenção de data não equivale a agendamento efetivo: o item precisa estar gravado na fila com seus arquivos finais.
+
+
+## 2026-09-22 — Pauta 3 aprovada e agendada
+
+- Pauta 3 aprovada pelo usuário.
+- Legenda final registrada junto ao item.
+- Publicação automática agendada para 24/09/2026 às 07:00 de Brasília.
+- Status operacional no publicador: `QUEUED`.
+- Pacote final contém 5 slides.
+- Slide 1 usa fotografia real de vaca no pasto, fonte Wikimedia Commons, obra de Gerda Arendt em CC0 1.0.
+- Slides 2–5 são composições tipográficas/editoriais, sem fotografia de IA.
+- Regra visual reforçada: fotografia real sempre que houver imagem; IA visual apenas quando não existir alternativa real adequada.
