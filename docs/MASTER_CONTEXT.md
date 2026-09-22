@@ -516,3 +516,18 @@ Continuidade entre chats:
 5. fila do publicador — estado real do que está aguardando publicação.
 
 O usuário não precisa reapresentar o contexto a cada novo chat. O STATUS_ATUAL deve ser atualizado no encerramento de cada ciclo semanal.
+
+
+## 25. PUBLICAÇÃO SEM AUTOMAÇÕES DO CHATGPT — 2026-09-22
+
+A publicação da Nova Linha Editorial não deve depender de tarefas/agendamentos do ChatGPT.
+
+Fluxo operacional:
+1. conteúdo é aprovado no ChatGPT;
+2. ChatGPT envia arquivos finais, legenda e metadados ao GitHub;
+3. o item entra na fila com `status=QUEUED` e `scheduled_for`;
+4. GitHub Actions executa o publicador nas janelas configuradas;
+5. quando a data/hora do item chega, o GitHub publica diretamente no Instagram;
+6. o status é atualizado para `PUBLISHED` ou `ERROR`.
+
+Automations do ChatGPT não devem ser usadas para agendar ou disparar publicações deste projeto. O GitHub é a fonte operacional de verdade para datas de publicação.
