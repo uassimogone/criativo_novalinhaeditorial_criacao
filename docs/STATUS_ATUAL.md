@@ -83,3 +83,10 @@ A Pauta 3 já cumpre os requisitos de agendamento efetivo: arquivos finais no Gi
 - Radar editorial: sábado às 06:00 de Brasília.
 - Publicador da Nova Linha Editorial: diariamente às 07:00 de Brasília.
 - Regra do publicador: máximo de 1 conteúdo por dia, somente itens QUEUED e somente quando scheduled_for já tiver chegado.
+
+
+## REGRA OPERACIONAL DE AGENDAMENTO
+
+- Não usar tarefas do ChatGPT para publicações da Nova Linha Editorial.
+- Todo conteúdo aprovado entra diretamente no GitHub com `scheduled_for`.
+- O GitHub Actions é o único mecanismo de disparo automático para o Instagram.
