@@ -502,3 +502,17 @@ Alterações:
 
 Fluxo vigente:
 **Radar → aprovação no ChatGPT → criação final no ChatGPT → envio dos arquivos finais para o GitHub → fila de publicação → Instagram.**
+
+
+## 24. ORGANIZAÇÃO POR CHATS SEMANAIS — 2026-09-22
+
+O projeto passa a operar em um chat novo por semana para evitar acúmulo de contexto conversacional.
+
+Continuidade entre chats:
+1. `docs/STATUS_ATUAL.md` — estado operacional resumido e prioridades da semana;
+2. `docs/MASTER_CONTEXT.md` — contexto estrutural e canônico;
+3. `docs/DECISOES.md` — decisões tomadas;
+4. `docs/MANUAL_VISUAL.md` — direção visual;
+5. fila do publicador — estado real do que está aguardando publicação.
+
+O usuário não precisa reapresentar o contexto a cada novo chat. O STATUS_ATUAL deve ser atualizado no encerramento de cada ciclo semanal.
