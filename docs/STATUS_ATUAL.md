@@ -70,13 +70,13 @@ Pautas aprovadas em 2026-09-21:
 Estado em 2026-09-22:
 - Pauta 2: publicada manualmente em 22/09/2026.
 - Pauta 1: publicação manual planejada para 23/09/2026.
-- Pauta 3: criativo aprovado; intenção de publicação em 24/09/2026 às 07:00. O publicador já suporta scheduled_for, mas o envio dos arquivos finais à fila ainda precisa ser concluído para o agendamento ficar efetivo.
+- Pauta 3: APROVADA e efetivamente agendada no GitHub para 24/09/2026 às 07:00 de Brasília. Cinco arquivos finais estão na fila; slide 1 usa fotografia real CC0 do Wikimedia Commons; slides 2–5 são tipográficos. Legenda registrada. Status: QUEUED.
 - Pauta 4: pendente de produção/refação.
 - Pauta 5: pendente de roteiro + texto para teleprompter.
-- fila atual: vazia;
-- itens QUEUED: 0.
+- fila atual: 1 item;
+- itens QUEUED: 1 (Pauta 3 — 24/09/2026 às 07:00).
 
-A fila só passa a representar um agendamento efetivo quando os arquivos finais estiverem no GitHub e o item correspondente constar como QUEUED com scheduled_for.
+A Pauta 3 já cumpre os requisitos de agendamento efetivo: arquivos finais no GitHub + status QUEUED + scheduled_for.
 
 ## 7. AUTOMAÇÕES ATIVAS RELACIONADAS
 
