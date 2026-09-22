@@ -275,3 +275,55 @@ Usar Forbes Brasil e Tio Huli para aprender:
 - contraste tipográfico.
 
 Não copiar logotipos, marcas, cores proprietárias, layouts distintivos, textos ou composições específicas.
+
+
+## AMPLIAÇÃO DO REPERTÓRIO — NOVAS REFERÊNCIAS DE 2026-09-22
+
+O novo conjunto de referências mostra que a variação visual é desejável. A unidade da marca não depende de repetir fundo, paleta, posição de título ou tipo de fotografia.
+
+### Linguagens adicionais observadas
+
+**1. Frase forte + objeto/fato reconhecível**
+Uma frase curta pode conviver com um objeto real ou símbolo diretamente ligado ao assunto. A composição é simples e frontal.
+
+**2. Cultura/arte como imagem editorial**
+Pintura, fotografia histórica ou imagem cultural pode sustentar reflexão, comportamento e valores quando houver relação semântica clara com a frase. Não usar arte apenas como decoração.
+
+**3. Notícia com montagem explicativa**
+Em negócios, tecnologia e mercado, é possível usar composição com marcas, personagens, produtos ou ambientes para tornar visível uma disputa ou mudança. A montagem deve explicar algo e permanecer legível; não deve parecer thumbnail sensacionalista.
+
+**4. Fotografia documental + texto mínimo**
+Edifícios, lugares, cenas familiares, natureza, trabalho e experiências podem ocupar quase todo o slide. Uma frase curta basta quando a fotografia já carrega contexto.
+
+**5. Paisagem/vida real + tese curta**
+Para valores, lifestyle e reflexão, aceitar imagens simples, imperfeitas e naturais. O objetivo é sensação de vida observada, não de campanha publicitária.
+
+**6. Capa tipográfica radicalmente simples**
+Fundo claro ou escuro, uma tese curta e hierarquia forte continuam sendo solução de primeira linha quando a frase sustenta a peça sozinha.
+
+### Ritmo dentro do mesmo carrossel
+A direção de arte pode ser decidida slide a slide. Exemplo válido:
+- capa com fotografia real;
+- slide 2 tipográfico;
+- slide 3 com fotografia histórica;
+- slide 4 com contraste de duas imagens;
+- slide 5 minimalista.
+
+A coerência virá de tipografia, margens, tratamento, assinatura e encadeamento da tese — não da repetição de um template.
+
+### Naturalidade
+Preferir:
+- fotografia com imperfeição e contexto;
+- enquadramentos que pareçam observados, não produzidos para banco de imagens;
+- cenas reais e reconhecíveis;
+- imagens específicas do assunto;
+- texto curto e integrado à imagem.
+
+Evitar:
+- “embelezar” toda pauta;
+- transformar todo assunto em fotografia cinematográfica;
+- excesso de tratamento que faça uma foto real parecer IA;
+- montagens grandiosas quando uma imagem documental simples resolver melhor.
+
+### Regra para referências políticas
+Peças políticas eventualmente enviadas pelo usuário podem servir para estudar hierarquia, contraste, relação texto-imagem e impacto visual. A mensagem política, o enquadramento partidário ou a tese da peça não são automaticamente incorporados à linha editorial. Qualquer posicionamento político de Uassi continua sujeito à regra de validação de opinião.
