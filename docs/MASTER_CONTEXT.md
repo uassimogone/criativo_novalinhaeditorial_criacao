@@ -480,3 +480,25 @@ Regras operacionais:
 - vídeos permanecem fora desta automação nesta fase;
 - GitHub é responsável por ingestão, fila, status, histórico e publicação;
 - o renderer automatizado não é fonte do criativo final.
+
+
+## 23. PUBLICADOR ADEQUADO AO FLUXO OFICIAL — 2026-09-22
+
+Implementação concluída no repositório `uassimogone/frasesepensamentos_publicador`, preservando o pipeline de Stories existente.
+
+Alterações:
+- removido o coletor da Nova Linha Editorial que buscava pacotes `READY_TO_PUBLISH` do renderer antigo;
+- removido o workflow automático desse coletor;
+- fila anterior com Pautas 1–4 v3 rejeitadas foi zerada;
+- novo schema de fila: itens finais entram diretamente com `status=QUEUED`;
+- eliminado o campo operacional `aprovado` da nova fila, pois a aprovação já ocorre no ChatGPT;
+- destino canônico dos arquivos finais: `queue/novalinha/<id>/`;
+- publicador aceita `CARROSSEL` (2–7 arquivos independentes) e `ESTATICO` (1 arquivo);
+- o GitHub não recria nem reinterpreta a arte recebida;
+- workflow roda às 07:00 de Brasília;
+- limite de no máximo 1 publicação da Nova Linha Editorial por dia também é validado no código, inclusive em execução manual;
+- estados da fila: `QUEUED`, `PUBLISHED`, `ERROR`;
+- contrato de ingestão registrado em `docs/NOVALINHA_INGESTAO_CHATGPT.md` do publicador.
+
+Fluxo vigente:
+**Radar → aprovação no ChatGPT → criação final no ChatGPT → envio dos arquivos finais para o GitHub → fila de publicação → Instagram.**
