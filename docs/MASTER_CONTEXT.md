@@ -1,6 +1,6 @@
 # CONTEXTO MESTRE — NOVA LINHA EDITORIAL
 
-Atualizado em: 2026-09-21
+Atualizado em: 2026-09-22
 
 Este documento é a fonte de verdade para continuidade do projeto, caso o histórico de conversa do ChatGPT fique longo, fragmentado ou seja retomado em outro chat.
 
@@ -461,3 +461,22 @@ Aprendizados adicionais:
 - referências políticas servem apenas como referência de composição visual e impacto tipográfico; não implicam adoção automática de tese, posicionamento ou mensagem política.
 
 Princípio consolidado: **naturalidade antes de uniformidade; especificidade antes de estética genérica; direção de arte escolhida pela pauta, não por um template fixo.**
+
+
+## 22. FLUXO OFICIAL DE PUBLICAÇÃO — 2026-09-22
+
+Fluxo oficial e definitivo nesta fase:
+
+**Radar → aprovação no ChatGPT → criação final no ChatGPT → envio dos arquivos finais para o GitHub → fila de publicação → Instagram.**
+
+Regras operacionais:
+- existe uma única aprovação editorial obrigatória antes da criação final: a aprovação da pauta/conteúdo no ChatGPT;
+- depois que o conteúdo final for criado e validado no ChatGPT, os arquivos finais são enviados ao GitHub;
+- a fila do GitHub é operacional, não uma segunda etapa de aprovação editorial;
+- itens inseridos na fila devem estar prontos para publicação;
+- o publicador consome a fila e publica no Instagram conforme a agenda definida;
+- carrosséis entram como arquivos separados, um arquivo por slide;
+- posts estáticos entram como arquivo único;
+- vídeos permanecem fora desta automação nesta fase;
+- GitHub é responsável por ingestão, fila, status, histórico e publicação;
+- o renderer automatizado não é fonte do criativo final.
