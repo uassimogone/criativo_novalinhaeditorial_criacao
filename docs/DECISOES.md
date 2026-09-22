@@ -49,3 +49,15 @@
 - Posts tipográficos minimalistas continuam aprovados, mas são a solução básica; pautas com imagem exigem curadoria e direção de arte superiores.
 - Pauta 4 visual entregue em montagem única foi rejeitada e não deve ser publicada.
 - Pauta 4 deve ser refeita em cinco arquivos separados e com pesquisa de imagens reais como primeira opção.
+
+
+## 2026-09-22 — ampliação das referências visuais
+
+- Novo lote de referências confirmou que a marca pode variar bastante de linguagem visual sem perder identidade.
+- Não buscar um “estilo único” para todas as peças; buscar consistência de qualidade, tipografia, hierarquia, tratamento e tese.
+- Passam a ser referências válidas, conforme a pauta: capa tipográfica; foto documental; foto histórica/cultural; foto de objeto/produto/edifício real; montagem noticiosa; contraste visual; lifestyle documental.
+- Uma obra de arte ou fotografia histórica pode ser usada quando carregar significado diretamente relacionado à tese.
+- Montagens e composições gráficas são permitidas em notícias/negócios quando explicam uma disputa ou transformação; não devem virar padrão.
+- Lifestyle deve parecer vivido/documental, não ensaio publicitário.
+- Referências políticas serão usadas somente para linguagem visual/composição, sem importar automaticamente a opinião ou tese política da peça original.
+- Regra consolidada: naturalidade e especificidade da imagem têm prioridade sobre uniformidade estética.
