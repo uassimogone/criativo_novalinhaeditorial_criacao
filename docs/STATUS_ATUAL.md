@@ -90,3 +90,5 @@ A Pauta 3 já cumpre os requisitos de agendamento efetivo: arquivos finais no Gi
 - Não usar tarefas do ChatGPT para publicações da Nova Linha Editorial.
 - Todo conteúdo aprovado entra diretamente no GitHub com `scheduled_for`.
 - O GitHub Actions é o único mecanismo de disparo automático para o Instagram.
+
+- Post de domingo (“Parabéns é depois. Apoio é durante.”): arte e legenda aprovadas; publicação será manual pelo usuário em 27/09/2026 às 13:30. Não inserir na fila automática do GitHub.
