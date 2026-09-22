@@ -71,10 +71,10 @@ Estado em 2026-09-22:
 - Pauta 2: publicada manualmente em 22/09/2026.
 - Pauta 1: publicação manual planejada para 23/09/2026.
 - Pauta 3: APROVADA e efetivamente agendada no GitHub para 24/09/2026 às 07:00 de Brasília. Cinco arquivos finais estão na fila; slide 1 usa fotografia real CC0 do Wikimedia Commons; slides 2–5 são tipográficos. Legenda registrada. Status: QUEUED.
-- Pauta 4: pendente de produção/refação.
+- Pauta 4: APROVADA e efetivamente agendada para 25/09/2026 às 18:00 de Brasília. Pacote final já existente foi reutilizado; legenda registrada. Status: QUEUED.
 - Pauta 5: pendente de roteiro + texto para teleprompter.
-- fila atual: 1 item;
-- itens QUEUED: 1 (Pauta 3 — 24/09/2026 às 07:00).
+- fila atual: 2 itens;
+- itens QUEUED: 2 (Pauta 3 — 24/09/2026 às 07:00; Pauta 4 — 25/09/2026 às 18:00).
 
 A Pauta 3 já cumpre os requisitos de agendamento efetivo: arquivos finais no GitHub + status QUEUED + scheduled_for.
 
