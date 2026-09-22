@@ -71,3 +71,17 @@
 - A fila é operacional: organiza, agenda, registra status e entrega ao publicador.
 - Carrosséis devem entrar na fila com cada slide como arquivo independente.
 - O GitHub não deve recriar ou reinterpretar o criativo final recebido do ChatGPT.
+
+
+## 2026-09-22 — implementação do publicador no fluxo oficial
+
+- Removida a coleta automática de pacotes do renderer antigo para a Nova Linha Editorial.
+- Removido o workflow do coletor da Nova Linha Editorial.
+- Fila antiga/rejeitada foi zerada.
+- Conteúdo final enviado pelo ChatGPT entra diretamente como `QUEUED`, sem segunda aprovação.
+- Destino padrão dos arquivos: `queue/novalinha/<id>/`.
+- Publicador suporta carrossel (2–7 slides independentes) e post estático (1 arquivo).
+- Publicação automática permanece às 07:00 de Brasília.
+- O código bloqueia mais de uma publicação da Nova Linha Editorial no mesmo dia.
+- Estados operacionais: `QUEUED`, `PUBLISHED`, `ERROR`.
+- O pipeline de Stories existente permanece separado e preservado.
