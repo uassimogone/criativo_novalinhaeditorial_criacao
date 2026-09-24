@@ -150,3 +150,9 @@
 - Domingo 11/10: proposta de vídeo reflexivo sobre declarações dos líderes de empresas de IA a respeito de riscos catastróficos/existenciais. Exige apuração de fontes e validação do enquadramento por Uassi antes do roteiro.
 - Descartada a pauta “Se o dono precisa decidir tudo, a empresa tem um limite de crescimento”.
 - Esta grade é editorial; nenhum item entra na fila de publicação sem a criação e validação do conteúdo final.
+
+
+## 2026-09-24 — revisão da quinta-feira 08/10
+
+- Uassi considerou fraca e descartou a pauta “Desconto sem fazer a conta pode transformar venda em prejuízo”.
+- A quinta-feira permanece em aberto para post estático com legenda forte, preferencialmente sobre valores e lifestyle. Não criar ou enfileirar a pauta anterior.
