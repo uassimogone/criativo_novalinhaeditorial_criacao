@@ -183,3 +183,9 @@
 
 - Uassi confirmou que já agendou a pauta sobre Congresso. Considerar a publicação agendada por ele e evitar duplicação.
 - Não foram informados plataforma, horário nem qual versão do slide 2 foi usada; a confirmação não equivale a registro de envio pelo ChatGPT à fila do GitHub.
+
+
+## 2026-09-24 — fonte de títulos
+
+- Uassi escolheu Archivo Black como fonte padrão para títulos e manchetes dos slides.
+- Fonte(s) de texto de apoio e eventual serif editorial ainda pendentes de escolha.
