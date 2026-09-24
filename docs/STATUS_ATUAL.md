@@ -133,3 +133,8 @@ O primeiro slide 2 foi rejeitado por desproporção do numeral 6. Nova versão c
 ## Confirmação de agendamento de segunda 05/10 — 2026-09-24
 
 Uassi informou que já agendou a pauta do carrossel sobre Congresso. Registrar como AGENDADA PELO USUÁRIO. A plataforma, o horário, a versão final utilizada e o estado da fila do GitHub não foram informados nesta conversa; não presumir que houve inclusão pelo ChatGPT na fila. Não agendar novamente sem solicitação expressa. As notas anteriores de avaliação visual e ausência de agendamento descrevem apenas o estado antes desta confirmação.
+
+
+## Revisão da pauta de terça 06/10 — 2026-09-24
+
+Uassi descartou a pauta de fluxo de caixa/vendas. Nova proposta editorial: carrossel de sete slides sobre por que os irmãos Joesley e Wesley Batista negociaram a aquisição da estrutura operacional da Avibras apesar da crise e das dívidas históricas. Texto em elaboração e sujeito à aprovação expressa antes de criar arte ou legenda. Precisão factual: a compra anunciada é de 100% da Nova AVB, controladora da Avibras Aeroco, via Globe Investimentos; a antiga Avibras Indústria Aeroespacial permanece em recuperação judicial. A referência a mais de R$ 394 milhões deve ser contextualizada como dívida histórica atribuída à empresa antiga, não como passivo atual integralmente assumido pelo comprador; há fontes com cifras distintas. Patentes específicas ainda sem confirmação documental. Nenhum criativo ou agendamento desta pauta.
