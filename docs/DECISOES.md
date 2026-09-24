@@ -170,3 +170,10 @@
 - Uassi aprovou texto e direção de arte de seis slides para a pauta sobre Congresso Nacional, com alteração específica no slide 2: fotografia real de urna eletrônica.
 - Sequência final de trabalho: capa Congresso; slide 2 seis escolhas e foto de urna; slide 3 deputados/senadores e leis; slide 4 fiscalização e sabatina pelo Senado com retratos de Lula e Alexandre de Moraes identificados por poder; slide 5 consequências duradouras; slide 6 acompanhar e cobrar representantes com foto real de manifestação.
 - Foram produzidas prévias PNG separadas e legenda com cinco hashtags. Material aguarda revisão visual de Uassi. Não foi enfileirado nem agendado.
+
+
+## 2026-09-24 — revisão do slide 2 da pauta de segunda
+
+- Uassi rejeitou a primeira composição do slide 2: numeral 6 isolado e desproporcional distorceu o conteúdo.
+- Nova prévia usa “são seis escolhas” em serifa editorial como manchete, mantém fotografia real de urna e reserva o fecho “Presidente é a última” à área da foto. O numeral gigante foi removido, sem esticar ou deformar a fonte.
+- Slide 2 revisado aguarda avaliação; slides 1 e 3–6 mantidos. Sem agendamento/publicação.
