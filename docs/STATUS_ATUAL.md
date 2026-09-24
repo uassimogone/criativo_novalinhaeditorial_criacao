@@ -143,3 +143,16 @@ Uassi descartou a pauta de fluxo de caixa/vendas. Nova proposta editorial: carro
 ## Direção de arte e fechamento da terça 06/10 — 2026-09-24
 
 Uassi pediu fechamento mais objetivo e impactante, com mensagem de que nos negócios cada detalhe importa. Exigiu fotografia real em todos os sete slides: slide 1 Avibras; slide 2 outra foto da empresa; slide 3 Joesley e Wesley Batista; slide 4 míssil real; slides 5 a 7 fotografia real relevante ao conteúdo. A peça continua somente em fase de texto e direção visual: não criar slides ou legenda antes de aprovação expressa do texto. Archivo Black é fonte aprovada para títulos e manchetes. Buscar imagens específicas com licença adequada antes da criação.
+
+
+## Consolidação final da semana 05/10–11/10/2026 — 2026-09-24
+
+A grade atualizada está em [PAUTA_SEMANAL_2026-10-05_A_11.md](PAUTA_SEMANAL_2026-10-05_A_11.md). Os blocos anteriores nesta seção registram etapas históricas, substituídas pela grade consolidada.
+
+- Segunda 05/10: carrossel Congresso, agendado pelo usuário.
+- Terça 06/10: carrossel Avibras, sete slides com fotos reais, produzido e agendado pelo usuário. Não agendar novamente; plataforma e horário não informados.
+- Quarta 07/10: responsabilidade do sócio por dívida da empresa, carrossel pendente de desenvolvimento.
+- Quinta 08/10: “Nem tudo o que você gosta precisa virar meta”, post estático + legenda forte pendentes.
+- Sexta 09/10: explicação das respostas da IA, vídeo pendente.
+- Sábado 10/10: trabalho que invade a casa e convivência com filhos, vídeo pendente.
+- Domingo 11/10: reflexão sobre alertas de riscos extremos da IA, vídeo pendente de apuração e tese.
