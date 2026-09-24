@@ -92,3 +92,19 @@ A Pauta 3 já cumpre os requisitos de agendamento efetivo: arquivos finais no Gi
 - O GitHub Actions é o único mecanismo de disparo automático para o Instagram.
 
 - Post de domingo (“Parabéns é depois. Apoio é durante.”): arte e legenda aprovadas; publicação será manual pelo usuário em 27/09/2026 às 13:30. Não inserir na fila automática do GitHub.
+
+
+## 8. PLANEJAMENTO EM CURSO — 05/10 A 11/10/2026 (2026-09-24)
+
+Preferência permanente: segunda, sexta e sábado concentram as pautas mais fortes e, via de regra, ficam reservados a vídeos curtos gravados manualmente. Exceções são decididas por Uassi.
+
+Grade definida em conversa, pendente de criação final:
+- 05/10 segunda: carrossel — presidente, Congresso e regras do jogo (exceção à preferência de vídeo).
+- 06/10 terça: carrossel — vender muito e ficar sem dinheiro.
+- 07/10 quarta: carrossel — dívida da empresa e responsabilidade do sócio.
+- 08/10 quinta: post estático + legenda forte — desconto sem calcular margem.
+- 09/10 sexta: vídeo — conferir e explicar respostas da IA.
+- 10/10 sábado: vídeo — trabalho que entra em casa e convivência com os filhos.
+- 11/10 domingo: vídeo proposto — por que líderes de empresas de IA alertam para riscos existenciais; apurar declarações e validar tese pessoal antes do roteiro.
+
+Pauta descartada: “Se o dono precisa decidir tudo, a empresa tem um limite de crescimento”. Esta grade não equivale a criativos finalizados nem a agendamentos na fila.
