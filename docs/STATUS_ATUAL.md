@@ -123,3 +123,8 @@ Post estático com legenda forte: “Nem tudo o que você gosta precisa virar me
 ## Produção de segunda 05/10 — 2026-09-24
 
 Texto e direção de arte de seis slides validados por Uassi, com foto de urna no slide 2. Seis PNGs individuais, prévia conjunta e legenda/créditos produzidos para revisão visual. Estado: AVALIAÇÃO VISUAL; sem status QUEUED e sem agendamento. Não enviar ao publicador antes do feedback sobre o pacote final.
+
+
+## Revisão visual do slide 2 — 2026-09-24
+
+O primeiro slide 2 foi rejeitado por desproporção do numeral 6. Nova versão com serifa editorial e fotografia real de urna produzida e disponibilizada, aguardando feedback. Os outros cinco slides não mudaram. A pauta segue fora da fila de publicação.
