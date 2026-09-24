@@ -327,3 +327,10 @@ Evitar:
 
 ### Regra para referências políticas
 Peças políticas eventualmente enviadas pelo usuário podem servir para estudar hierarquia, contraste, relação texto-imagem e impacto visual. A mensagem política, o enquadramento partidário ou a tese da peça não são automaticamente incorporados à linha editorial. Qualquer posicionamento político de Uassi continua sujeito à regra de validação de opinião.
+
+
+## Padrão tipográfico — decisão de 2026-09-24
+
+- Archivo Black é a fonte aprovada por Uassi para títulos e manchetes dos slides, em qualquer família visual.
+- Usar o arquivo genuíno da família, sem esticar, comprimir ou simular negrito.
+- A fonte de texto de apoio e o papel de uma possível serif editorial ainda serão definidos; não tratar sugestões anteriores como aprovadas.
