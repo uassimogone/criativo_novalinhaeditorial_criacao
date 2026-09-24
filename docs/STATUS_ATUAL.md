@@ -113,3 +113,8 @@ Pauta descartada: “Se o dono precisa decidir tudo, a empresa tem um limite de 
 ## Ajuste da quinta-feira — 2026-09-24
 
 A pauta de 08/10 sobre desconto e margem foi descartada. Quinta permanece em aberto para escolha de pauta de valores/lifestyle, em formato post estático com legenda forte. As demais escolhas da semana permanecem como planejamento editorial.
+
+
+## Quinta-feira 08/10 definida — 2026-09-24
+
+Post estático com legenda forte: “Nem tudo o que você gosta precisa virar meta.” Tema escolhido por Uassi após descartar a pauta de desconto e margem. A arte e a legenda ainda serão produzidas; não há item enfileirado para esta data.
