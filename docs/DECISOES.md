@@ -156,3 +156,10 @@
 
 - Uassi considerou fraca e descartou a pauta “Desconto sem fazer a conta pode transformar venda em prejuízo”.
 - A quinta-feira permanece em aberto para post estático com legenda forte, preferencialmente sobre valores e lifestyle. Não criar ou enfileirar a pauta anterior.
+
+
+## 2026-09-24 — quinta-feira 08/10 definida
+
+- Uassi escolheu a opção 1 para quinta-feira: “Nem tudo o que você gosta precisa virar meta.”
+- Formato: post estático com legenda forte. Pilar: valores e lifestyle.
+- Abordagem: hobbies, esporte, leitura ou interesses feitos pelo prazer da experiência, sem obrigação de transformá-los em desempenho, negócio ou conteúdo. Não atribuir a Uassi relato pessoal não validado.
