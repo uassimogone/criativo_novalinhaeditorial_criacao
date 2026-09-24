@@ -128,3 +128,8 @@ Texto e direção de arte de seis slides validados por Uassi, com foto de urna n
 ## Revisão visual do slide 2 — 2026-09-24
 
 O primeiro slide 2 foi rejeitado por desproporção do numeral 6. Nova versão com serifa editorial e fotografia real de urna produzida e disponibilizada, aguardando feedback. Os outros cinco slides não mudaram. A pauta segue fora da fila de publicação.
+
+
+## Confirmação de agendamento de segunda 05/10 — 2026-09-24
+
+Uassi informou que já agendou a pauta do carrossel sobre Congresso. Registrar como AGENDADA PELO USUÁRIO. A plataforma, o horário, a versão final utilizada e o estado da fila do GitHub não foram informados nesta conversa; não presumir que houve inclusão pelo ChatGPT na fila. Não agendar novamente sem solicitação expressa. As notas anteriores de avaliação visual e ausência de agendamento descrevem apenas o estado antes desta confirmação.
