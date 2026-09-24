@@ -136,3 +136,17 @@
 - Conteúdo aprovado deve ser inserido diretamente no GitHub assim que ficar pronto.
 - O GitHub Actions é responsável por verificar a fila e publicar quando chegar a data/hora.
 - O ChatGPT atua apenas na criação, aprovação e envio do pacote final ao GitHub.
+
+
+## 2026-09-24 — prioridade de dias e formatos da semana 05/10 a 11/10
+
+- Segunda, sexta e sábado são, em regra, os dias de pautas mais fortes e devem ser preferencialmente reservados para vídeos. Segunda 05/10 é exceção aprovada como carrossel.
+- Segunda 05/10: carrossel sobre presidente, Congresso e regras que afetam a vida cotidiana.
+- Terça 06/10: carrossel sobre empresa que vende muito e fica sem dinheiro.
+- Quarta 07/10: carrossel sobre limites da dívida da empresa e responsabilidade do sócio.
+- Quinta 08/10: post estático com legenda forte sobre desconto sem cálculo de custo e margem; transferido da proposta original de sexta.
+- Sexta 09/10: vídeo sobre saber conferir e explicar a resposta da IA; transferido da proposta original de quinta.
+- Sábado 10/10: vídeo sobre o trabalho que invade a casa e a convivência com os filhos; transferido da proposta original de domingo.
+- Domingo 11/10: proposta de vídeo reflexivo sobre declarações dos líderes de empresas de IA a respeito de riscos catastróficos/existenciais. Exige apuração de fontes e validação do enquadramento por Uassi antes do roteiro.
+- Descartada a pauta “Se o dono precisa decidir tudo, a empresa tem um limite de crescimento”.
+- Esta grade é editorial; nenhum item entra na fila de publicação sem a criação e validação do conteúdo final.
