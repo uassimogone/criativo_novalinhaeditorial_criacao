@@ -531,3 +531,11 @@ Fluxo operacional:
 6. o status é atualizado para `PUBLISHED` ou `ERROR`.
 
 Automations do ChatGPT não devem ser usadas para agendar ou disparar publicações deste projeto. O GitHub é a fonte operacional de verdade para datas de publicação.
+
+
+## 26. CADÊNCIA EDITORIAL — DECISÃO DE 2026-09-24
+
+- As pautas de maior força editorial devem, via de regra, ocupar segunda-feira, sexta-feira e sábado.
+- Reservar esses três dias preferencialmente para vídeos curtos gravados e publicados manualmente por Uassi; a regra admite exceções escolhidas por ele.
+- Para a semana 05/10–11/10/2026, segunda-feira é uma exceção expressa: carrossel. Sexta e sábado são vídeos; domingo recebe um vídeo adicional.
+- Não aplicar uma grade fixa de formatos quando a escolha específica da semana determinar outra distribuição.
