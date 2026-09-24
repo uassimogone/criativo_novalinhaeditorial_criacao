@@ -163,3 +163,10 @@
 - Uassi escolheu a opção 1 para quinta-feira: “Nem tudo o que você gosta precisa virar meta.”
 - Formato: post estático com legenda forte. Pilar: valores e lifestyle.
 - Abordagem: hobbies, esporte, leitura ou interesses feitos pelo prazer da experiência, sem obrigação de transformá-los em desempenho, negócio ou conteúdo. Não atribuir a Uassi relato pessoal não validado.
+
+
+## 2026-09-24 — segunda 05/10: texto validado e prévia visual produzida
+
+- Uassi aprovou texto e direção de arte de seis slides para a pauta sobre Congresso Nacional, com alteração específica no slide 2: fotografia real de urna eletrônica.
+- Sequência final de trabalho: capa Congresso; slide 2 seis escolhas e foto de urna; slide 3 deputados/senadores e leis; slide 4 fiscalização e sabatina pelo Senado com retratos de Lula e Alexandre de Moraes identificados por poder; slide 5 consequências duradouras; slide 6 acompanhar e cobrar representantes com foto real de manifestação.
+- Foram produzidas prévias PNG separadas e legenda com cinco hashtags. Material aguarda revisão visual de Uassi. Não foi enfileirado nem agendado.
