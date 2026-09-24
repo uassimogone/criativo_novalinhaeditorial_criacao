@@ -177,3 +177,9 @@
 - Uassi rejeitou a primeira composição do slide 2: numeral 6 isolado e desproporcional distorceu o conteúdo.
 - Nova prévia usa “são seis escolhas” em serifa editorial como manchete, mantém fotografia real de urna e reserva o fecho “Presidente é a última” à área da foto. O numeral gigante foi removido, sem esticar ou deformar a fonte.
 - Slide 2 revisado aguarda avaliação; slides 1 e 3–6 mantidos. Sem agendamento/publicação.
+
+
+## 2026-09-24 — agendamento de segunda 05/10 informado pelo usuário
+
+- Uassi confirmou que já agendou a pauta sobre Congresso. Considerar a publicação agendada por ele e evitar duplicação.
+- Não foram informados plataforma, horário nem qual versão do slide 2 foi usada; a confirmação não equivale a registro de envio pelo ChatGPT à fila do GitHub.
