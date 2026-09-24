@@ -118,3 +118,8 @@ A pauta de 08/10 sobre desconto e margem foi descartada. Quinta permanece em abe
 ## Quinta-feira 08/10 definida — 2026-09-24
 
 Post estático com legenda forte: “Nem tudo o que você gosta precisa virar meta.” Tema escolhido por Uassi após descartar a pauta de desconto e margem. A arte e a legenda ainda serão produzidas; não há item enfileirado para esta data.
+
+
+## Produção de segunda 05/10 — 2026-09-24
+
+Texto e direção de arte de seis slides validados por Uassi, com foto de urna no slide 2. Seis PNGs individuais, prévia conjunta e legenda/créditos produzidos para revisão visual. Estado: AVALIAÇÃO VISUAL; sem status QUEUED e sem agendamento. Não enviar ao publicador antes do feedback sobre o pacote final.
