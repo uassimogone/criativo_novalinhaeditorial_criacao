@@ -108,3 +108,8 @@ Grade definida em conversa, pendente de criação final:
 - 11/10 domingo: vídeo proposto — por que líderes de empresas de IA alertam para riscos existenciais; apurar declarações e validar tese pessoal antes do roteiro.
 
 Pauta descartada: “Se o dono precisa decidir tudo, a empresa tem um limite de crescimento”. Esta grade não equivale a criativos finalizados nem a agendamentos na fila.
+
+
+## Ajuste da quinta-feira — 2026-09-24
+
+A pauta de 08/10 sobre desconto e margem foi descartada. Quinta permanece em aberto para escolha de pauta de valores/lifestyle, em formato post estático com legenda forte. As demais escolhas da semana permanecem como planejamento editorial.
