@@ -539,3 +539,22 @@ Automations do ChatGPT não devem ser usadas para agendar ou disparar publicaç�
 - Reservar esses três dias preferencialmente para vídeos curtos gravados e publicados manualmente por Uassi; a regra admite exceções escolhidas por ele.
 - Para a semana 05/10–11/10/2026, segunda-feira é uma exceção expressa: carrossel. Sexta e sábado são vídeos; domingo recebe um vídeo adicional.
 - Não aplicar uma grade fixa de formatos quando a escolha específica da semana determinar outra distribuição.
+
+## 24. CURADORIA VISUAL COMO VARIÁVEL DE DESEMPENHO — 2026-09-30
+
+A análise inicial de desempenho do perfil reforçou uma decisão editorial importante: em posts estáticos e carrosséis, a imagem não deve ser tratada apenas como acabamento visual. Ela é parte da hipótese de desempenho do conteúdo.
+
+O post estático de melhor resposta no período combinou tese forte com fotografia real e pertinente. A partir de agora, avaliar texto/tese e direção visual separadamente e em conjunto.
+
+Regra operacional:
+- fotografia real/documental/editorial específica da pauta é a primeira opção quando houver uma imagem capaz de sustentar a ideia;
+- a curadoria da imagem deve acontecer antes da composição final;
+- não usar imagem real genérica apenas para cumprir a regra: especificidade e pertinência continuam obrigatórias;
+- quando não houver imagem real suficientemente boa, preferir solução tipográfica forte;
+- imagem gerada por IA permanece exceção e deve exigir justificativa editorial clara;
+- evitar aparência de IA mesmo em imagens reais excessivamente tratadas;
+- registrar no histórico de desempenho o tipo de solução visual usada para permitir comparação futura entre fotografia real, tipografia, montagem e IA.
+
+A hipótese de que o Instagram entrega menos conteúdo por ele ser gerado por IA não deve ser tratada como fato comprovado sem evidência específica. Para o projeto, porém, a preferência por fotografia real permanece firme por três razões independentes: aderência à identidade aprovada, percepção de autenticidade e sinais iniciais de desempenho do próprio perfil.
+
+Novo princípio: **tese forte + imagem real específica + composição simples** deve ser considerado um dos formatos prioritários para posts estáticos e capas de carrossel.
