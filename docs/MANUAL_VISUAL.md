@@ -334,3 +334,40 @@ Peças políticas eventualmente enviadas pelo usuário podem servir para estudar
 - Archivo Black é a fonte aprovada por Uassi para títulos e manchetes dos slides, em qualquer família visual.
 - Usar o arquivo genuíno da família, sem esticar, comprimir ou simular negrito.
 - A fonte de texto de apoio e o papel de uma possível serif editorial ainda serão definidos; não tratar sugestões anteriores como aprovadas.
+
+## Curadoria visual orientada por desempenho — 2026-09-30
+
+A curadoria da imagem é uma etapa editorial obrigatória para posts estáticos e carrosséis. A arte não deve ser definida apenas depois do texto: imagem e tese precisam ser concebidas como uma unidade.
+
+### Ordem de decisão
+
+1. Existe fotografia real, documental, histórica, jornalística, institucional ou de acervo diretamente ligada à pauta?
+2. Essa imagem acrescenta contexto, reconhecimento, informação, tensão, emoção ou prova visual?
+3. A imagem continua forte no corte vertical do feed e na leitura em tela pequena?
+4. A procedência e a possibilidade de uso estão claras?
+5. O tratamento preserva aparência natural?
+6. Se a imagem não cumprir esses critérios, usar tipografia ou composição editorial sem fotografia.
+7. IA visual somente quando a pauta exigir algo que não possa ser resolvido adequadamente com imagem real ou tipografia.
+
+### Critérios de rejeição
+
+Rejeitar imagem:
+- genérica o suficiente para servir em dezenas de pautas diferentes;
+- com aparência evidente de banco de imagem corporativo;
+- com estética artificial/cinematográfica sem função;
+- excessivamente tratada a ponto de parecer gerada;
+- tecnicamente fraca para o corte do Instagram;
+- cuja relação com o fato ou personagem seja apenas aproximada;
+- escolhida apenas porque “o slide precisa de uma foto”.
+
+### Desempenho
+
+Nos registros de publicação, marcar a solução visual usada:
+- REAL_DOCUMENTAL;
+- TIPOGRAFICA;
+- MONTAGEM_REAL;
+- IA.
+
+Esses dados devem ser cruzados posteriormente com alcance, compartilhamentos, salvamentos, visitas ao perfil e seguidores gerados. Não assumir causalidade a partir de uma única peça; procurar padrões ao longo de várias publicações.
+
+Princípio prioritário: **uma fotografia real muito bem escolhida vale mais do que uma imagem espetacular, mas genérica ou artificial.**
