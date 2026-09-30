@@ -189,3 +189,15 @@
 
 - Uassi escolheu Archivo Black como fonte padrão para títulos e manchetes dos slides.
 - Fonte(s) de texto de apoio e eventual serif editorial ainda pendentes de escolha.
+
+## 2026-09-30 — curadoria visual e desempenho
+
+- A imagem passa a ser tratada também como variável de desempenho editorial, não apenas como decisão estética.
+- Posts estáticos e capas de carrossel devem priorizar fotografia real/documental/editorial específica da pauta quando houver material forte.
+- Curadoria de imagem ocorre antes da composição final.
+- Fotografia real genérica, banco de imagem clichê ou imagem apenas decorativa continua rejeitada; a imagem precisa carregar contexto, informação, emoção ou reconhecimento.
+- Quando não houver fotografia real adequada, preferir tipografia forte em vez de preencher o criativo com IA.
+- IA visual permanece exceção.
+- A hipótese de redução automática de alcance apenas por a imagem ser gerada por IA não será tratada como regra factual sem evidência específica da plataforma.
+- O histórico de desempenho deve registrar a origem/linguagem visual de cada peça para permitir comparação futura: fotografia real/documental, tipografia, montagem/composição ou IA.
+- Formato prioritário a ser testado e repetido quando a pauta permitir: tese forte + imagem real específica + composição simples.
