@@ -371,3 +371,41 @@ Nos registros de publicação, marcar a solução visual usada:
 Esses dados devem ser cruzados posteriormente com alcance, compartilhamentos, salvamentos, visitas ao perfil e seguidores gerados. Não assumir causalidade a partir de uma única peça; procurar padrões ao longo de várias publicações.
 
 Princípio prioritário: **uma fotografia real muito bem escolhida vale mais do que uma imagem espetacular, mas genérica ou artificial.**
+
+
+## PROTOCOLO DE PESQUISA VISUAL — 2026-10-02
+
+Antes de produzir peças relevantes, realizar pesquisa visual ampla e intencional. A etapa não deve se limitar a uma busca rápida.
+
+### Fontes prioritárias
+- Behance e Pinterest para repertório e composição;
+- Awwwards, BP&O, Brand New, Creative Boom e It's Nice That para direção contemporânea;
+- Typewolf, Fonts In Use e foundries para tipografia;
+- fotografia editorial, campanhas, portfólios e perfis de Instagram relevantes para imagem, crop e ritmo visual.
+
+### O que extrair das referências
+- hierarquia e escala tipográfica;
+- combinação de famílias e pesos;
+- margens e uso de espaço negativo;
+- relação entre texto e imagem;
+- enquadramento/crop;
+- contraste e paleta;
+- ritmo entre slides;
+- uso de fotografia real;
+- soluções de capa e primeira dobra;
+- simplicidade e densidade visual.
+
+### Regra de adaptação
+Não há obrigação de reinventar a solução visual. Quando uma referência for especialmente boa, adaptar sua lógica ao conteúdo de Uassi pode ser preferível a criar algo formalmente inédito.
+
+Pode-se adaptar estrutura, hierarquia, ritmo, proporção, contraste e lógica de composição. Não copiar logotipos, marcas, redação, elementos proprietários distintivos ou uma composição identificável de forma praticamente literal.
+
+### Fluxo
+1. fechar tese e formato;
+2. pesquisar referências amplamente;
+3. selecionar 2–4 referências realmente fortes;
+4. decidir o que será adaptado de cada uma;
+5. produzir a peça;
+6. revisar criticamente impacto, legibilidade, atualidade e coerência antes da entrega.
+
+Princípio: **o visual não é acabamento; é parte da retenção e da mensagem.**
