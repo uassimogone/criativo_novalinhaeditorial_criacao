@@ -558,3 +558,15 @@ Regra operacional:
 A hipótese de que o Instagram entrega menos conteúdo por ele ser gerado por IA não deve ser tratada como fato comprovado sem evidência específica. Para o projeto, porém, a preferência por fotografia real permanece firme por três razões independentes: aderência à identidade aprovada, percepção de autenticidade e sinais iniciais de desempenho do próprio perfil.
 
 Novo princípio: **tese forte + imagem real específica + composição simples** deve ser considerado um dos formatos prioritários para posts estáticos e capas de carrossel.
+
+
+## 2026-10-02 — VARREDURA VISUAL AMPLA ANTES DA CRIAÇÃO
+
+- A pesquisa visual passa a ser etapa obrigatória e relevante da criação, não uma consulta rápida ou ocasional.
+- Para peças importantes, especialmente capas, posts estáticos, carrosséis de aquisição e conteúdos com fotografia, o ChatGPT deve realizar uma varredura visual ampla antes de definir a direção de arte.
+- A pesquisa pode incluir Behance, Pinterest, Awwwards, BP&O, Brand New, Creative Boom, It's Nice That, Typewolf, Fonts In Use, foundries tipográficas, portfólios de estúdios, fotografia editorial, campanhas, publicações e perfis de Instagram com design contemporâneo relevante.
+- O objetivo é identificar soluções visuais atuais e de alto nível em tipografia, composição, hierarquia, crop, fotografia, paleta, ritmo entre slides e relação texto-imagem.
+- Não há obrigação de inventar uma solução visual inédita. Boas ideias visuais podem ser usadas como referência direta e adaptadas ao conteúdo de Uassi quando fizer sentido.
+- A adaptação deve preservar identidade própria e evitar reprodução indevida de marca, logotipo, texto autoral ou composição proprietária distintiva de terceiros.
+- O visual é tratado como parte central da retenção e do desempenho editorial, no mesmo nível de importância prática que a qualidade do conteúdo.
+- Fluxo visual preferencial: tese aprovada → varredura visual ampla → seleção de 2–4 referências/direções fortes → adaptação ao conteúdo → produção → revisão crítica antes da entrega final.
