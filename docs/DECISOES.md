@@ -201,3 +201,13 @@
 - A hipótese de redução automática de alcance apenas por a imagem ser gerada por IA não será tratada como regra factual sem evidência específica da plataforma.
 - O histórico de desempenho deve registrar a origem/linguagem visual de cada peça para permitir comparação futura: fotografia real/documental, tipografia, montagem/composição ou IA.
 - Formato prioritário a ser testado e repetido quando a pauta permitir: tese forte + imagem real específica + composição simples.
+
+
+## 2026-10-02 — pesquisa visual e adaptação de referências
+
+- A varredura visual antes da criação deixa de ser curta: deve ser ampla e criteriosa quando a peça justificar.
+- Pesquisar design, branding, tipografia, fotografia e editorial em múltiplas fontes especializadas e perfis relevantes.
+- Boas soluções visuais existentes podem ser adaptadas ao conteúdo da marca; não é necessário buscar originalidade formal a qualquer custo.
+- É permitido reaproveitar lógica de composição, hierarquia, uso de tipografia, contraste, ritmo e estrutura visual de boas referências, desde que sem copiar marca, logotipo, texto autoral ou composição proprietária distintiva de forma confundível.
+- O visual passa a ser tratado explicitamente como componente central de retenção e performance.
+- Antes de produzir peças importantes, apresentar ou selecionar referências concretas que sustentem a direção de arte escolhida.
