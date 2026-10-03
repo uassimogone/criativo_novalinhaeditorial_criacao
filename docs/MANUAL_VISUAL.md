@@ -462,3 +462,15 @@ Dois cabeçalhos aprovados como base:
 - manter proporção vertical própria de Reel quando houver vídeo;
 - não copiar pixel a pixel a interface de Instagram, Threads ou X; usar apenas a linguagem reconhecível de publicação social;
 - o conteúdo deve parecer claramente uma publicação editorial de Uassi.
+
+
+## FLUXO DE PRODUÇÃO — POST SOCIAL + VÍDEO
+
+1. receber vídeo;
+2. assistir/analisar conteúdo, gancho, contexto e potencial de retenção;
+3. sugerir 3–5 títulos curtos;
+4. aguardar escolha/aprovação;
+5. aplicar cabeçalho aprovado (Instagram-like ou Threads-like);
+6. integrar vídeo ao layout vertical;
+7. exportar versão final em MP4 quando a edição for simples;
+8. recorrer ao CapCut apenas para recursos dinâmicos adicionais (legenda animada, cortes, trilha, zoom, efeitos) ou por preferência do usuário.
