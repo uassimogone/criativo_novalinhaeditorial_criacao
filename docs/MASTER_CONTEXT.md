@@ -592,3 +592,11 @@ Novo princípio: **tese forte + imagem real específica + composição simples**
   2. **Cabeçalho Threads-like**: avatar circular à esquerda, nome “Uassi Mogone” em preto, selo azul ao lado, handle “@uassimogone” em cinza, fundo branco e aparência mais textual/editorial.
 - Abaixo do cabeçalho entra a frase de enquadramento e, em seguida, o vídeo ou imagem viral.
 - A identidade deve parecer uma publicação social própria de Uassi, com visual limpo, reconhecível e simples.
+
+
+## 2026-10-03 — FLUXO DO FORMATO POST SOCIAL + VÍDEO
+
+- Quando Uassi enviar um vídeo para este formato, o primeiro passo é analisar o conteúdo e sugerir títulos/frases de enquadramento antes de montar qualquer arte.
+- Fluxo: vídeo enviado → análise de retenção/contexto → 3–5 sugestões de título → aprovação do título → montagem final.
+- Preferência operacional: entregar o vídeo final já composto no formato POST SOCIAL + VÍDEO, com cabeçalho/modelo e mídia integrados, pronto para publicação, sempre que a edição for simples.
+- CapCut fica como alternativa para ajustes manuais, legendas dinâmicas, cortes finos, trilha, zooms, efeitos ou quando Uassi preferir editar pessoalmente.
