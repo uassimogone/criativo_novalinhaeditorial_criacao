@@ -221,3 +221,11 @@
 - A frase superior deve contextualizar, provocar ou enquadrar a mídia em 1–3 linhas, sem excesso de explicação.
 - Usar identidade de Uassi no cabeçalho quando a frase for editorial própria; não atribuir a terceiros texto que eles não publicaram.
 - Preservar crédito/autoria do conteúdo-base e evitar remoção de marca d'água.
+
+
+## 2026-10-03 — nomenclatura “POST SOCIAL + VÍDEO”
+
+- O formato anteriormente descrito como “post estilo X + mídia viral” passa a ser solicitado operacionalmente como **POST SOCIAL + VÍDEO**.
+- O cabeçalho deve seguir os modelos próprios enviados por Uassi em 03/10/2026, com avatar, nome/handle e selo azul.
+- Priorizar a versão Instagram-like ou Threads-like conforme o conteúdo e composição.
+- Não usar identidade visual de terceiros quando a frase de enquadramento for da marca Uassi.
