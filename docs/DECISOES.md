@@ -211,3 +211,13 @@
 - É permitido reaproveitar lógica de composição, hierarquia, uso de tipografia, contraste, ritmo e estrutura visual de boas referências, desde que sem copiar marca, logotipo, texto autoral ou composição proprietária distintiva de forma confundível.
 - O visual passa a ser tratado explicitamente como componente central de retenção e performance.
 - Antes de produzir peças importantes, apresentar ou selecionar referências concretas que sustentem a direção de arte escolhida.
+
+
+## 2026-10-03 — formato “post estilo X” para aquisição
+
+- Aprovado novo formato de conteúdo: layout inspirado em postagem do X, com cabeçalho textual curto e mídia viral abaixo.
+- Pode ser usado para vídeos virais já validados por desempenho, sem necessidade de react.
+- Finalidade prioritária: aquisição/alcance.
+- A frase superior deve contextualizar, provocar ou enquadrar a mídia em 1–3 linhas, sem excesso de explicação.
+- Usar identidade de Uassi no cabeçalho quando a frase for editorial própria; não atribuir a terceiros texto que eles não publicaram.
+- Preservar crédito/autoria do conteúdo-base e evitar remoção de marca d'água.
