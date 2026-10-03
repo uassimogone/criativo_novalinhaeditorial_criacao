@@ -229,3 +229,11 @@
 - O cabeçalho deve seguir os modelos próprios enviados por Uassi em 03/10/2026, com avatar, nome/handle e selo azul.
 - Priorizar a versão Instagram-like ou Threads-like conforme o conteúdo e composição.
 - Não usar identidade visual de terceiros quando a frase de enquadramento for da marca Uassi.
+
+
+## 2026-10-03 — aprovação de título antes da montagem
+
+- No formato POST SOCIAL + VÍDEO, nunca montar direto ao receber o vídeo.
+- Primeiro analisar o vídeo e apresentar sugestões de título/frase de enquadramento para aprovação.
+- Após aprovação, montar preferencialmente o MP4 final já com o modelo aplicado.
+- Usar entrega apenas da moldura/imagem para CapCut quando houver necessidade de edição dinâmica ou preferência do usuário.
