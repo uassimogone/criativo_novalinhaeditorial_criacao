@@ -430,3 +430,35 @@ Princípio: **o visual não é acabamento; é parte da retenção e da mensagem.
 
 ### Papel editorial
 Formato prioritariamente de AQUISIÇÃO, especialmente para conteúdos já comprovadamente virais e alinhados aos pilares da marca.
+
+
+## IDENTIDADE DO FORMATO — POST SOCIAL + VÍDEO
+
+### Nome de uso
+**POST SOCIAL + VÍDEO**
+
+### Referência própria do usuário
+Dois cabeçalhos aprovados como base:
+
+**A. Instagram-like**
+- fundo branco;
+- avatar circular de Uassi à esquerda;
+- “uassimogone” em minúsculas, preto, peso forte;
+- selo azul de verificação ao lado;
+- ícone/menu simples à direita;
+- altura compacta, bastante área branca.
+
+**B. Threads-like**
+- fundo branco;
+- avatar circular à esquerda;
+- “Uassi Mogone” em preto;
+- selo azul ao lado;
+- “@uassimogone” em cinza;
+- visual mais textual, limpo e editorial.
+
+### Uso
+- inserir frase curta de enquadramento logo abaixo do cabeçalho;
+- abaixo, vídeo/imagem viral;
+- manter proporção vertical própria de Reel quando houver vídeo;
+- não copiar pixel a pixel a interface de Instagram, Threads ou X; usar apenas a linguagem reconhecível de publicação social;
+- o conteúdo deve parecer claramente uma publicação editorial de Uassi.
