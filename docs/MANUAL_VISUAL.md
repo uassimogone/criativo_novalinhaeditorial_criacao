@@ -409,3 +409,24 @@ Pode-se adaptar estrutura, hierarquia, ritmo, proporção, contraste e lógica d
 6. revisar criticamente impacto, legibilidade, atualidade e coerência antes da entrega.
 
 Princípio: **o visual não é acabamento; é parte da retenção e da mensagem.**
+
+
+## FORMATO VISUAL — POST ESTILO X + MÍDIA VIRAL (2026-10-03)
+
+### Estrutura
+1. faixa/cabeçalho branco no topo;
+2. avatar + nome Uassi Mogone + @uassimogone (ou identificação simplificada);
+3. frase curta em tipografia limpa, preta, grande e legível;
+4. vídeo/imagem viral ocupando a maior parte da área inferior;
+5. sem molduras pesadas, excesso de elementos ou branding que dispute com a mídia.
+
+### Direção
+- aparência de postagem social reconhecível, mas não reprodução pixel a pixel da interface do X;
+- tipografia neutra e contemporânea, com alta legibilidade;
+- frase superior preferencialmente de 1 a 3 linhas;
+- foco em retenção imediata: contexto primeiro, mídia logo abaixo;
+- quando o vídeo já tiver marca d'água/origem, preservar;
+- evitar sobrecarregar com legendas dentro da arte; usar a legenda do Instagram para desenvolver a leitura.
+
+### Papel editorial
+Formato prioritariamente de AQUISIÇÃO, especialmente para conteúdos já comprovadamente virais e alinhados aos pilares da marca.
