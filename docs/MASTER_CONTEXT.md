@@ -570,3 +570,13 @@ Novo princípio: **tese forte + imagem real específica + composição simples**
 - A adaptação deve preservar identidade própria e evitar reprodução indevida de marca, logotipo, texto autoral ou composição proprietária distintiva de terceiros.
 - O visual é tratado como parte central da retenção e do desempenho editorial, no mesmo nível de importância prática que a qualidade do conteúdo.
 - Fluxo visual preferencial: tese aprovada → varredura visual ampla → seleção de 2–4 referências/direções fortes → adaptação ao conteúdo → produção → revisão crítica antes da entrega final.
+
+
+## 2026-10-03 — NOVO FORMATO DE AQUISIÇÃO: POST ESTILO X + VÍDEO VIRAL
+
+- Adotar como nova alternativa editorial um formato vertical inspirado visualmente em uma postagem do X: cabeçalho branco com avatar, nome/handle e uma frase curta de contexto ou tese; abaixo, vídeo ou imagem viral incorporado como mídia principal.
+- Objetivo principal: aquisição e alcance, aproveitando conteúdos que já demonstraram capacidade de retenção/viralização, sem exigir react em vídeo do próprio Uassi.
+- O formato deve servir como embalagem editorial própria: o vídeo viral é o gancho; a curadoria, a frase de abertura e a legenda trazem o enquadramento da marca.
+- Preferir o perfil/identidade do próprio Uassi no cabeçalho, evitando simular que terceiros publicaram algo que não publicaram.
+- Manter crédito visível da origem do vídeo quando aplicável e não remover marcas d'água ou elementos de autoria do material-fonte.
+- Usar com moderação para não transformar o perfil em agregador de reposts; tratar como uma categoria recorrente de aquisição, complementar a vídeos próprios, carrosséis e posts estáticos.
