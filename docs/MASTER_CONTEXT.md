@@ -580,3 +580,15 @@ Novo princípio: **tese forte + imagem real específica + composição simples**
 - Preferir o perfil/identidade do próprio Uassi no cabeçalho, evitando simular que terceiros publicaram algo que não publicaram.
 - Manter crédito visível da origem do vídeo quando aplicável e não remover marcas d'água ou elementos de autoria do material-fonte.
 - Usar com moderação para não transformar o perfil em agregador de reposts; tratar como uma categoria recorrente de aquisição, complementar a vídeos próprios, carrosséis e posts estáticos.
+
+
+## 2026-10-03 — NOME E IDENTIDADE DO FORMATO SOCIAL HEADER + VÍDEO
+
+- Nome operacional aprovado para o novo formato: **POST SOCIAL + VÍDEO**.
+- Quando Uassi pedir “post social + vídeo”, usar a lógica visual baseada nos modelos próprios enviados em 03/10/2026.
+- Cabeçalho deve usar identidade própria de Uassi, não simular perfil de terceiro.
+- Há duas variações visuais de referência enviadas pelo usuário:
+  1. **Cabeçalho Instagram-like**: avatar circular à esquerda, handle em minúsculas “uassimogone” em peso forte, selo azul ao lado, menu de três linhas/pontos à direita, fundo branco e bastante respiro.
+  2. **Cabeçalho Threads-like**: avatar circular à esquerda, nome “Uassi Mogone” em preto, selo azul ao lado, handle “@uassimogone” em cinza, fundo branco e aparência mais textual/editorial.
+- Abaixo do cabeçalho entra a frase de enquadramento e, em seguida, o vídeo ou imagem viral.
+- A identidade deve parecer uma publicação social própria de Uassi, com visual limpo, reconhecível e simples.
